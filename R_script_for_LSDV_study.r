@@ -1,7 +1,10 @@
 library(ape)
+library(diagram)
 library(fields)
 library(igraph)
 library(lubridate)
+library(maptools)
+library(MetBrewer)
 library(RColorBrewer)
 library(raster)
 library(rgeos)
@@ -17,7 +20,9 @@ library(vegan)
 # 7. Preparing the input files for the analyses to perform in SPADS
 # 8. Testing for a signal of recombination within the two wild type clades
 # 9. Investigating the isolation-by-distance pattern based on the IID2 metric
-# 10. Investigating the temporal signal associated with the two wild type clades
+# 10. Investigating the temporal signal and preparing the BEAST input files
+# 11. Extracting the spatio-temporal information embedded in posterior trees
+# 12. Mapping the dispersal history of LSVD lineages of the wild type clades
 
 writingFiles = FALSE
 savingPlots = FALSE
@@ -482,7 +487,7 @@ if (savingPlots)
 		dev.off()
 	}
 
-# 10. Investigating the temporal signal associated with the two wild type clades
+# 10. Investigating the temporal signal and preparing the BEAST input files
 
 tre = read.nexus("LSVD_all_1_wild_type.tre")
 tre$tip.label = gsub("'","",tre$tip.label)
@@ -538,4 +543,290 @@ for (i in 1:length(txt))
 	}
 write.table(mat, "LSVD_all_1_WTs_BEAST/LSVD_all_1_wild_type.txt", row.names=F, quote=F, sep="\t")
 write(buffer, "LSVD_all_1_WTs_BEAST/LSVD_all_1_wild_type.fas")
+
+files = list.files("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/Longitude_latitude/")
+for (i in 1:length(files))
+	{
+		txt = scan(paste0("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/Longitude_latitude/",files[i]), what="", sep="\n", quiet=T); buffer = txt
+		for (j in 1:length(txt))
+			{
+				if (grepl("\t\t\t",txt[j]))
+					{
+						line = unlist(strsplit(gsub("\t\t\t","",txt[j]),","))
+						buffer[j] = paste0("\t\t\t",line[2],",",line[1],",",line[3])
+					}
+			}
+		write(buffer, paste0("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/",files[i]))
+	}
+
+files = list.files("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/"); samples = gsub(".kml","",files)
+for (i in 1:dim(mat)[1])
+	{
+		if (mat[i,"trait"]%in%samples)
+			{
+				index = which(samples==mat[i,"trait"])
+				txt = scan(paste0("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/",files[index]), what="", sep="\n", quiet=T)
+				txt = gsub("\t\t\t","",txt[which(grepl("\t\t\t",txt))])
+				tmp = matrix(nrow=length(txt), ncol=2)
+				for (j in 1:length(txt))
+					{
+						tmp[j,1] = as.numeric(unlist(strsplit(txt[j],","))[2]); tmp[j,2] = as.numeric(unlist(strsplit(txt[j],","))[1])
+					}
+				x = as.numeric(mat[i,"longitude"]); y = as.numeric(mat[i,"latitude"])
+				if (point.in.polygon(x,y,tmp[,1],tmp[,2]) != 1) print(c(i,mat[i,"trait"]))
+			}
+	}
+
+directory = "LSVD_all_1_WTs_polygons"
+files = list.files("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_polygons/")
+files = files[which(grepl(".kml",files))]; samples = gsub(".kml","",files)
+xml = scan("LSVD_all_1_WTs_BEAST/LSVD_all_1_wild_type.xml", what="", sep="\n", quiet=T, blank.lines.skip=F)
+xml = gsub("LSVD_all_1_wild_type","LSVD_all_1_WTs_pols",xml)
+sink(file=paste0("LSVD_all_1_WTs_BEAST/LSVD_all_1_WTs_pols.xml"))
+for (i in 1:length(xml))
+	{
+		cat(xml[i]); cat("\n")
+		if (xml[i] == "\t<!-- INSERT leafTraitParameter -->")
+			{
+				cat("\n")
+				for (j in 1:length(samples))
+					{
+						cat(paste("\t<leafTraitParameter id=\"",samples[j],".trait\" taxon=\"",samples[j],"\">",sep="")); cat("\n")
+						cat(paste("\t\t<treeModel idref=\"treeModel\"/>",sep="")); cat("\n")
+						cat(paste("\t\t<parameter idref=\"leaf.location\"/>",sep="")); cat("\n")
+						cat(paste("\t</leafTraitParameter>",sep="")); cat("\n")
+					}
+				cat("\n")
+				for (j in 1:length(samples))
+					{
+						cat(paste("\t<flatGeoSpatialPrior id=\"",samples[j],"_polygon\" taxon=\"",samples[j],"\" kmlFileName=\"",directory,"/",samples[j],".kml\" inside=\"true\" union=\"true\" cache=\"true\">",sep="")); cat("\n")
+						cat(paste("\t\t<data>",sep="")); cat("\n")
+						cat(paste("\t\t\t<parameter idref=\"",samples[j],".trait\"/>",sep="")); cat("\n")
+						cat(paste("\t\t</data>",sep="")); cat("\n")
+						cat(paste("\t</flatGeoSpatialPrior>",sep="")); cat("\n")
+					}
+				cat("\n")		
+			}
+		if (xml[i]=="\t\t<!-- INSERT uniformGeoSpatialOperator -->")
+			{
+				cat("\n")
+				for (j in 1:length(samples))
+					{
+						cat(paste("\t\t<uniformGeoSpatialOperator weight=\"0.01\">",sep="")); cat("\n")
+						cat(paste("\t\t\t<parameter idref=\"",samples[j],".trait\"/>",sep="")); cat("\n")
+						cat(paste("\t\t\t<flatGeoSpatialPrior idref=\"",samples[j],"_polygon\"/>",sep="")); cat("\n")
+						cat(paste("\t\t</uniformGeoSpatialOperator>",sep="")); cat("\n")
+					}
+				cat("\n")
+			}
+		if (xml[i]=="\t\t\t\t<!-- INSERT geoDistributionCollection -->")
+			{
+				cat("\n")
+				cat("\t\t\t\t<geoDistributionCollection id=\"allGeoDistributions\">"); cat("\n")
+				for (j in 1:length(samples))
+					{
+						cat(paste("\t\t\t\t<flatGeoSpatialPrior idref=\"",samples[j],"_polygon\"/>",sep="")); cat("\n")
+					}
+				cat("\t\t\t\t</geoDistributionCollection>"); cat("\n")
+				cat("\n")
+			}					
+	}
+sink(NULL)
+
+	# Notes:
+		# - to avoid having to use a small jitter, KY829023 was "commented" in the XML files because coming from the exact same municipality as GRC478
+		# - for the same reason, the "starting" coordinates assigned to the sequences from Bangladesh and Kenya in the XML files have been manually re-sampled
+		
+# 11. Extracting the spatio-temporal information embedded in posterior trees
+
+analyses = c("LSVD_all_1_WTs_pols")
+nberOfTreesToSample = 1000; burnIn = 201
+for (i in 1:length(analyses))
+	{
+		log = scan(paste0("LSVD_all_1_WTs_BEAST/",analyses[i],".log"), what="", sep="\n", quiet=T, blank.lines.skip=F)
+		index1 = 6+burnIn; index2 = length(log); interval = round((index2-index1)/nberOfTreesToSample)
+		indices = seq(index2-((nberOfTreesToSample-1)*interval),index2,interval)
+		write(log[c(5,indices)], paste0(analyses[i],".log"))
+		trees = scan(paste0("LSVD_all_1_WTs_BEAST/",analyses[i],".trees"), what="", sep="\n", quiet=T, blank.lines.skip=F)
+		index1 = which(trees=="\t\t;")[length(which(trees=="\t\t;"))]
+		index2 = index1 + burnIn + 1
+		indices3 = which(grepl("tree STATE",trees)); index3 = indices3[length(indices3)]
+		interval = floor((index3-(index1+burnIn))/nberOfTreesToSample)
+		indices = seq(index3-((nberOfTreesToSample-1)*interval),index3,interval)
+		selected_trees = c(trees[c(1:index1,indices)],"End;")
+		write(selected_trees, paste0(analyses[i],".trees"))
+	}
+		# To do: getting and annotating the MCC tree with TreeAnnotator, using the 1,000 selected trees as an input
+
+source("Tree_data_extraction1.r") # for the MCC tree
+source("Tree_data_extraction2.r") # for the posterior trees
+mostRecentSamplingDates = rep(NA, length(analyses))
+mostRecentSamplingDatum = 2021.5 # ?? (unprecise...)
+for (i in 1:length(analyses))
+	{
+		mcc_tre = readAnnotatedNexus(paste0(analyses[i],".tree"))
+		mostRecentSamplingDates[i] = mostRecentSamplingDatum
+		mcc_tab = Tree_data_extraction1(mcc_tre, mostRecentSamplingDatum)
+		write.csv(mcc_tab, paste0(analyses[i],".csv"), row.names=F, quote=F)
+	}
+for (i in 1:length(analyses))
+	{
+		localTreesDirectory = paste0(analyses[i],"_ext"); mostRecentSamplingDatum = mostRecentSamplingDates[i]
+		allTrees = readAnnotatedNexus(paste0(analyses[i],".trees"))
+		for (j in 1:length(allTrees))
+			{
+				tab = Tree_data_extraction2(allTrees[[j]], mostRecentSamplingDatum)
+				write.csv(tab, paste0(localTreesDirectory,"/TreeExtractions_",j,".csv"), row.names=F, quote=F)
+			}
+	}
+
+# 12. Mapping the dispersal history of LSVD lineages of the wild type clades
+
+analysis = c("LSVD_all_1_WTs_pols"); nberOfExtractionFiles = 1000
+mostRecentSamplingDatum = 2021.5 # ?? (unprecise...)
+localTreesDirectory = paste0(analysis,"_ext")
+rootHeights = rep(NA, nberOfExtractionFiles)
+for (i in 1:nberOfExtractionFiles)
+	{
+		csv = read.csv(paste(localTreesDirectory,"/TreeExtractions_",i,".csv",sep=""), header=T)
+		rootHeights[i] = min(csv[,"startYear"])
+	}
+mcc = read.csv(paste0(analysis,".csv"), head=T)
+mcc = mcc[order(mcc[,"startYear"]),]; mcc1 = mcc[1,]; mcc2 = mcc[c(2:dim(mcc)[1]),]
+mcc2 = mcc2[order(mcc2[,"endYear"]),]; mcc = rbind(mcc1,mcc2)
+minYear = mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[2]]; maxYear = mostRecentSamplingDatum
+colour_scale = met.brewer(name="Hiroshige", n=111, type="continuous")[1:101]
+
+tree = readAnnotatedNexus(paste0(analysis,".tree")); tree$tip.label = gsub("'","",tree$tip.label)
+rootHeight = max(nodeHeights(tree)); root_time = mostRecentSamplingDatum-rootHeight
+minYear = mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[2]]; maxYear = mostRecentSamplingDatum
+
+pdf(paste0(analysis,"_NEW1.pdf"), width=3.5, height=4.05); # dev.new(width=3.5, height=4.05)
+par(mar=c(1,0,0,0), oma=c(0,0,0,0), mgp=c(0,0.1,0), lwd=0.2, bty="o", col="gray30"); plottingRootNode = TRUE
+plot(tree, show.tip.label=F, show.node.label=F, edge.width=0.5, cex=0.6, align.tip.label=3, 
+	 x.lim=c(minYear-(maxYear-max(nodeHeights(tree))), max(nodeHeights(tree))), col="gray30", edge.color="gray30")
+tree_obj = get("last_plot.phylo", envir=.PlotPhyloEnv); plottingRootBar = FALSE
+for (j in 1:dim(tree$edge)[1])
+	{
+		endYear = root_time+nodeHeights(tree)[j,2]
+		endYear_index = (((endYear-minYear)/(maxYear-minYear))*100)+1
+		endYear_colour = colour_scale[endYear_index]
+		if ((tree$edge[j,2]%in%tree$edge[,1])&(length(tree$annotations[[j]]$`height_95%_HPD`) > 1))
+			{
+				x1 = (mostRecentSamplingDatum-tree$annotations[[j]]$`height_95%_HPD`[[2]])-root_time
+				x2 = (mostRecentSamplingDatum-tree$annotations[[j]]$`height_95%_HPD`[[1]])-root_time
+				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,2]],2), lwd=2, lend=0, col=paste0(endYear_colour,"40"))
+			}
+		if ((plottingRootBar == FALSE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
+			{
+				endYear = root_time+nodeHeights(tree)[j,1]
+				endYear_index = (((endYear-minYear)/(maxYear-minYear))*100)+1
+				endYear_colour = colour_scale[endYear_index]
+				x1 = (mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[2]])-root_time
+				x2 = (mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[1]])-root_time
+				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,1]],2), lwd=5, lend=0, col=paste0(endYear_colour,"40"))
+				plottingRootBar = TRUE
+			}				
+	}
+for (j in 1:dim(tree$edge)[1])
+	{
+		endYear = root_time+nodeHeights(tree)[j,2]
+		endYear_index = (((endYear-minYear)/(maxYear-minYear))*100)+1
+		endYear_colour = colour_scale[endYear_index]
+		if ((tree$edge[j,2]%in%tree$edge[,1])&&(tree$annotations[[j]]$posterior >= 0.95))
+			{
+				nodelabels(node=tree$edge[j,2], pch=16, cex=0.50, col=endYear_colour)
+				nodelabels(node=tree$edge[j,2], pch=1, cex=0.50, col="gray30", lwd=0.2)
+			}
+		if (!tree$edge[j,2]%in%tree$edge[,1])
+			{
+				nodelabels(node=tree$edge[j,2], pch=15, cex=0.50, col=endYear_colour)
+				nodelabels(node=tree$edge[j,2], pch=0, cex=0.50, col="gray30", lwd=0.2)
+			}
+		if ((plottingRootNode == FALSE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
+			{
+				endYear = root_time+nodeHeights(tree)[j,1]
+				endYear_index = (((endYear-minYear)/(maxYear-minYear))*100)+1
+				endYear_colour = colour_scale[endYear_index]; plottingRootNode = TRUE		
+				nodelabels(node=tree$edge[j,1], pch=16, cex=0.50, col=endYear_colour)
+				nodelabels(node=tree$edge[j,1], pch=1, cex=0.50, col="gray30", lwd=0.2)
+			}
+	}
+selectedDates = seq(1750,2000,50); selectedLabels = selectedDates
+selectedDates = c(minYear, selectedDates, maxYear); selectedLabels = c("", selectedLabels, "")
+axis(lwd=0.3, at=selectedDates-root_time, labels=selectedLabels, cex.axis=0.60, mgp=c(0,-0.35,-0.3), lwd.tick=0.3, 
+	 col.lab="gray30", col="gray30", tck=-0.013, side=1)
+dev.off()
+
+e_Palearctic = extent(-25, 125, -40, 75)
+countries = crop(gBuffer(shapefile("World_countries_shapefile/World_countries_shapefile.shp") , byid=T, width=0), e_Palearctic)
+borders = crop(shapefile("Only_international_borders/Only_international_borders.shp"), e_Palearctic)
+coasts = crop(shapefile("Only_coast_lines_borders/Only_coast_lines_borders.shp"), e_Palearctic)
+
+prob = 0.80; precision = 25; startDatum=minYear
+polygons = suppressWarnings(spreadGraphic2(localTreesDirectory, nberOfExtractionFiles, prob, startDatum, precision))
+
+endYears_indices = (((mcc[,"endYear"]-minYear)/(maxYear-minYear))*100)+1
+endYears_colours = colour_scale[endYears_indices]
+polygons_colours = rep(NA, length(polygons))
+for (i in 1:length(polygons))
+	{
+		date = as.numeric(names(polygons[[i]]))
+		polygon_index = round((((date-minYear)/(maxYear-minYear))*100)+1)
+		polygons_colours[i] = paste0(colour_scale[polygon_index],"20")
+	}
+
+cutOffs = c(maxYear); croppingPolygons = FALSE
+for (h in 1:length(cutOffs))
+	{
+		pdf(paste0(analysis,"_NEW2.pdf"), width=5, height=4.05)
+		par(mar=c(0,0,0,0), oma=c(0,0,0,0), mgp=c(0,0.1,0), lwd=0.2, bty="o")
+		plot(countries, col="gray90", border=NA, ann=F, axes=F)
+		plot(borders, col="white", lwd=0.3, add=T)
+		plot(coasts, col="gray70", lwd=0.5, add=T)
+		rast = raster(matrix(nrow=1, ncol=2)); rast[1] = startDatum; rast[2] = max(mcc[,"endYear"])
+		if (h == length(cutOffs))
+			{
+				plot(rast, legend.only=T, add=T, col=colour_scale, legend.width=0.5, legend.shrink=0.3, smallplot=c(0.50,0.85,0.11,0.12),
+	 				 legend.args=list(text="", cex=0.7, col="gray30"), horizontal=T,
+					 axis.args=list(cex.axis=0.5, lwd=0, lwd.tick=0.2, col.tick="gray30", tck=-1.0, col="gray30", col.axis="gray30", line=0, mgp=c(0,-0.15,0)))
+			 }
+		for (i in 1:length(polygons))
+			{
+				if (as.numeric(names(polygons[[i]])) <= cutOffs[h])
+					{
+						for (j in 1:length(polygons[[i]]@polygons))
+							{
+								polygons[[i]]@polygons[[j]] = checkPolygonsHoles(polygons[[i]]@polygons[[j]])
+							}
+						pol = polygons[[i]]; crs(pol) = crs(countries)
+						if (croppingPolygons == TRUE) pol = crop(pol, countries)
+						plot(pol, axes=F, col=polygons_colours[[i]][j], add=T, border=NA)
+					}
+			}
+		for (i in 1:dim(mcc)[1])
+			{
+				if (mcc[i,"endYear"] <= cutOffs[h])
+					{
+						curvedarrow(cbind(mcc[i,"startLon"],mcc[i,"startLat"]), cbind(mcc[i,"endLon"],mcc[i,"endLat"]), arr.length=0,
+				  		  		    arr.width=0, lwd=0.2, lty=1, lcol="gray30", arr.col=NA, arr.pos=F, curve=0.1, dr=NA, endhead=F)
+				  	}
+			}
+		for (i in dim(mcc)[1]:1)
+			{
+				if ((mcc[i,"startYear"] <= cutOffs[h])&(!mcc[i,"node1"]%in%mcc[,"node2"]))
+					{
+						startYears_index = (((mcc[i,"startYear"]-minYear)/(maxYear-minYear))*100)+1
+						points(mcc[i,"startLon"], mcc[i,"startLat"], pch=16, col=colour_scale[startYears_index], cex=0.4)
+						points(mcc[i,"startLon"], mcc[i,"startLat"], pch=1, col="gray30", lwd=0.2, cex=0.4)
+					}
+				if (mcc[i,"endYear"] <= cutOffs[h])
+					{
+						points(mcc[i,"endLon"], mcc[i,"endLat"], pch=16, col=endYears_colours[i], cex=0.4)
+						points(mcc[i,"endLon"], mcc[i,"endLat"], pch=1, col="gray30", lwd=0.2, cex=0.4)
+					}
+			}
+		rect(-25, -40, 125, 75, lwd=0.2, border="gray30")
+		dev.off()
+	}
 
