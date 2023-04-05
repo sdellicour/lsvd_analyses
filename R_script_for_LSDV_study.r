@@ -657,7 +657,7 @@ for (i in 1:length(analyses))
 		write(selected_trees, paste0(analyses[i],".trees"))
 	}
 		# To do: getting and annotating the MCC tree with TreeAnnotator, using the 1,000 selected trees as an input
-		# Tracer: ucld.mean = 5.91E-5, 95%HPD = [5.41E-7, 3.12E-4]; root age = 1888.1, 95% HPD = [1752.9-1957.4]
+		# Tracer: ucld.mean = 5.91E-5, 95% HPD = [5.41E-7, 3.12E-4]; root age = 1888.1, 95% HPD = [1752.9-1957.4]
 
 source("Tree_data_extraction1.r") # for the MCC tree
 source("Tree_data_extraction2.r") # for the posterior trees
