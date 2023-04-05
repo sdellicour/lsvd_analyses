@@ -640,7 +640,7 @@ sink(NULL)
 # 11. Extracting the spatio-temporal information embedded in posterior trees
 
 analyses = c("LSVD_all_1_WTs_pols")
-nberOfTreesToSample = 1000; burnIn = 201
+nberOfTreesToSample = 1000; burnIn = 1001
 for (i in 1:length(analyses))
 	{
 		log = scan(paste0("LSVD_all_1_WTs_BEAST/",analyses[i],".log"), what="", sep="\n", quiet=T, blank.lines.skip=F)
@@ -715,7 +715,7 @@ for (j in 1:dim(tree$edge)[1])
 			{
 				x1 = (mostRecentSamplingDatum-tree$annotations[[j]]$`height_95%_HPD`[[2]])-root_time
 				x2 = (mostRecentSamplingDatum-tree$annotations[[j]]$`height_95%_HPD`[[1]])-root_time
-				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,2]],2), lwd=2, lend=0, col=paste0(endYear_colour,"40"))
+				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,2]],2), lwd=3.5, lend=0, col=paste0(endYear_colour,"40"))
 			}
 		if ((plottingRootBar == FALSE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
 			{
@@ -724,7 +724,7 @@ for (j in 1:dim(tree$edge)[1])
 				endYear_colour = colour_scale[endYear_index]
 				x1 = (mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[2]])-root_time
 				x2 = (mostRecentSamplingDatum-tree$root.annotation$`height_95%_HPD`[[1]])-root_time
-				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,1]],2), lwd=5, lend=0, col=paste0(endYear_colour,"40"))
+				lines(x=c(x1,x2), y=rep(tree_obj$yy[tree$edge[j,1]],2), lwd=3.5, lend=0, col=paste0(endYear_colour,"40"))
 				plottingRootBar = TRUE
 			}				
 	}
@@ -740,8 +740,8 @@ for (j in 1:dim(tree$edge)[1])
 			}
 		if (!tree$edge[j,2]%in%tree$edge[,1])
 			{
-				nodelabels(node=tree$edge[j,2], pch=15, cex=0.50, col=endYear_colour)
-				nodelabels(node=tree$edge[j,2], pch=0, cex=0.50, col="gray30", lwd=0.2)
+				nodelabels(node=tree$edge[j,2], pch=16, cex=0.50, col=endYear_colour)
+				nodelabels(node=tree$edge[j,2], pch=1, cex=0.50, col="gray30", lwd=0.2)
 			}
 		if ((plottingRootNode == FALSE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
 			{
@@ -754,7 +754,7 @@ for (j in 1:dim(tree$edge)[1])
 	}
 selectedDates = seq(1750,2000,50); selectedLabels = selectedDates
 selectedDates = c(minYear, selectedDates, maxYear); selectedLabels = c("", selectedLabels, "")
-axis(lwd=0.3, at=selectedDates-root_time, labels=selectedLabels, cex.axis=0.60, mgp=c(0,-0.35,-0.3), lwd.tick=0.3, 
+axis(lwd=0.3, at=selectedDates-root_time, labels=selectedLabels, cex.axis=0.60, mgp=c(0,-0.15,-0.3), lwd.tick=0.3, 
 	 col.lab="gray30", col="gray30", tck=-0.013, side=1)
 dev.off()
 
