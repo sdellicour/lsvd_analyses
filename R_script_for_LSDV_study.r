@@ -657,6 +657,7 @@ for (i in 1:length(analyses))
 		write(selected_trees, paste0(analyses[i],".trees"))
 	}
 		# To do: getting and annotating the MCC tree with TreeAnnotator, using the 1,000 selected trees as an input
+		# Tracer: ucld.mean = 5.91E-5, 95%HPD = [5.41E-7, 3.12E-4]; root age = 1888.1, 95% HPD = [1752.9-1957.4]
 
 source("Tree_data_extraction1.r") # for the MCC tree
 source("Tree_data_extraction2.r") # for the posterior trees
@@ -743,7 +744,7 @@ for (j in 1:dim(tree$edge)[1])
 				nodelabels(node=tree$edge[j,2], pch=16, cex=0.50, col=endYear_colour)
 				nodelabels(node=tree$edge[j,2], pch=1, cex=0.50, col="gray30", lwd=0.2)
 			}
-		if ((plottingRootNode == FALSE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
+		if ((plottingRootNode == TRUE)&&(!tree$edge[j,1]%in%tree$edge[,2]))
 			{
 				endYear = root_time+nodeHeights(tree)[j,1]
 				endYear_index = (((endYear-minYear)/(maxYear-minYear))*100)+1
