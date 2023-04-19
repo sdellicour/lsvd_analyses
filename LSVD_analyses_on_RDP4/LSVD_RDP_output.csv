@@ -1,0 +1,2471 @@
+,,,Breakpoint Positions
+,,In Alignment, ,In Recombinant Sequence, ,Relative to MT643825.1 Lumpy skin disease virus strain 210LSD-,, , , , , , Detection Methods
+Recombination Event Number, Number In .RDP File, Begin, End,Begin, End,Begin, End, Recombinant Sequence(s), Minor Parental Sequence(s), Major Parental Sequence(s), RDP, GENECONV, Bootscan, Maxchi, Chimaera, SiSscan,PhylPro, LARD, 3Seq
+ 1 ,1~, 136090, 138269, 135825, 137997, 135908, 138082,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,OM793603.1 Lumpy skin disease virus isolate LSDV_R,SRB6402, 1.1595313128216E-60, 4.32319721656656E-55, 3.71382078226088E-54, 2.10929354583372E-23, 1.52460016899506E-23, 2.43103856624449E-12,NS,NS, 4.04121180963557E-14,
+ 1,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 1,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 1,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 1,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 1,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 1,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 1,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 1,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 1,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 1,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 1,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 1,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 1,,,,,,,,,GRC715,
+ 1,,,,,,,,,MKD5000,
+ 1,,,,,,,,,MKD5011,
+ 1,,,,,,,,,SRB4592,
+ 1,,,,,,,,,SRB5778,
+ 1,,,,,,,,,SRB6040,
+ 1,,,,,,,,,SRB7695,
+ 1,,,,,,,,,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,
+ 1,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 1,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 1,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 1,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 1,,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,
+ 1,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 1,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 1,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 1,,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,
+ 1,,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,
+ 1,,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,
+ 1,,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,
+ 1,,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,
+ 1,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 1,,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,
+ 1,,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,
+ 1,,,,,,,,,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,
+ 1,,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,
+ 1,,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,
+ 1,,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,
+ 1,,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,
+ 1,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,
+ 1,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 1,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+ 1,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,
+ 1,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,
+ 1,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,
+
+ 2 ,2, 118242, 122510, 115838, 120093, 118088, 122338,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,SRB6402,Unknown (OM530217.1 Lumpy skin disease virus isolate LSDV/R), 6.27124589067465E-43, 3.69556724406606E-40, 4.1075333885451E-40, 6.9554887191677E-13, 2.19045343734569E-12, 7.40340038625945E-16,NS,NS, 8.08242361927114E-14,
+ 2,,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H,Unknown(MH646674.1 Lumpy skin disease virus strain LSDV/Ru)
+ 2,,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14,
+ 2,,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22,
+ 2,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22,
+ 2,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24,
+ 2,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10,
+ 2,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58,
+ 2,,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva,
+ 2,,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201,
+ 2,,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum,
+ 2,,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli,
+ 2,,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl,
+
+ 3 ,3, 122512, 134886, 122252, 134607, 122340, 134706,^SRB6402,OM793603.1 Lumpy skin disease virus isolate LSDV_R,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 1.22484131831013E-41, 1.24264836209393E-37, 1.50575706491427E-09, 7.8447873608688E-23, 3.75811584820102E-15, 2.6097881732481E-11,NS,NS, 4.04121180963557E-14,
+ 3,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H,ON152411.1 Lumpy skin disease virus isolate LSDV72,
+ 3,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14,OP508345.1 Lumpy skin disease virus isolate China/,
+ 3,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22,OM033705.1 Lumpy skin disease virus isolate LSDV/T,
+ 3,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22,ON616408.1 Lumpy skin disease virus strain LSDV/NM,
+ 3,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24,OM984485.1 Lumpy skin disease virus strain LSDV XJ,
+ 3,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10,OM793602.1 Lumpy skin disease virus isolate LSDV_R,
+ 3,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58,OL752713.1 Lumpy skin disease virus isolate LSDV/K,
+ 3,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,
+ 3,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201,MZ577076.1 Lumpy skin disease virus strain 20L81_B,
+ 3,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum,MZ577075.1 Lumpy skin disease virus strain 20L70_D,
+ 3,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli,MZ577074.1 Lumpy skin disease virus strain 20L43_L,
+ 3,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,
+ 3,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,
+ 3,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,
+ 3,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,
+ 3,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,
+
+ 4 ,4~, 134764, 139266, 134530, 138949, 134584, 139006,^OP508345.1 Lumpy skin disease virus isolate China/,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 5.68779421190932E-66, 2.90987841006366E-64, 3.86573566965919E-58, 2.73299662104169E-26, 1.65392063776465E-20, 5.01877202708085E-30,NS,NS, 8.08242361927114E-14,
+ 4,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 4,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB790,
+ 4,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1000,
+ 4,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1573,
+ 4,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB1707,
+ 4,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,
+ 4,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,ALB4770,
+ 4,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,KY829023,
+ 4,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,
+ 4,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,
+ 4,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,
+ 4,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,
+ 4,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,
+ 4,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 4,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 4,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 4,,,,,,,,,SRB5778,
+ 4,,,,,,,,,SRB6040,
+ 4,,,,,,,,,SRB7695,
+ 4,,,,,,,,,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,
+ 4,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 4,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 4,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 4,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 4,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 4,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 4,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 4,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 4,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 4,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 4,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 4,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 4,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 4,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 4,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 4,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 5 ,5~, 127655, 131366, 127418, 131126, 127481, 131189,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 2.27577977976128E-37, 1.06133260384668E-40, 4.43445702230622E-43, 6.29635729745724E-14, 7.24265856028371E-14, 3.54254688447965E-15,NS,NS, 8.08242361927114E-14,
+ 5,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 5,,,,,,,,,ALB790,
+ 5,,,,,,,,,ALB1000,
+ 5,,,,,,,,,ALB1573,
+ 5,,,,,,,,,ALB1707,
+ 5,,,,,,,,,ALB4192,
+ 5,,,,,,,,,ALB4770,
+ 5,,,,,,,,,KY829023,
+ 5,,,,,,,,,GRC314,
+ 5,,,,,,,,,GRC386-16,
+ 5,,,,,,,,,GRC478,
+ 5,,,,,,,,,GRC498A,
+ 5,,,,,,,,,GRC715,
+ 5,,,,,,,,,MKD5000,
+ 5,,,,,,,,,MKD5011,
+ 5,,,,,,,,,SRB4592,
+ 5,,,,,,,,,SRB5778,
+ 5,,,,,,,,,SRB6040,
+ 5,,,,,,,,,SRB7695,
+ 5,,,,,,,,,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,
+ 5,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 5,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 5,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 5,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 5,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 5,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 5,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 5,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 5,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 5,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 5,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 5,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 5,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 5,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 5,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 5,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 6 ,6~, 135866, 139954, 133441, 137442, 135684, 139687,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,Unknown (SRB6402), 1.85566617698578E-70, 2.49202239070727E-63, 1.30156245103305E-65, 8.20071062975937E-30, 2.98357637040706E-27, 7.37384039096077E-45,NS,NS, 4.04121180963557E-14,
+ 6,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-[P],,Unknown(OM530217.1 Lumpy skin disease virus isolate LSDV/R)
+ 6,,,,,,,,ALB790[P],,Unknown(MH646674.1 Lumpy skin disease virus strain LSDV/Ru)
+ 6,,,,,,,,ALB1000[P],,Unknown(MW656252.1 Lumpy skin disease virus isolate LSDV/H)
+ 6,,,,,,,,ALB1573[P],,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14)
+ 6,,,,,,,,ALB1707[P],,Unknown(MN636842.1 Lumpy skin disease virus isolate LSD-22)
+ 6,,,,,,,,ALB4192[P],,Unknown(MN636841.1 Lumpy skin disease virus isolate LSD-22)
+ 6,,,,,,,,ALB4770[P],,Unknown(MN636840.1 Lumpy skin disease virus isolate LSD-24)
+ 6,,,,,,,,KY829023[P],,Unknown(MN636839.1 Lumpy skin disease virus isolate LSD-10)
+ 6,,,,,,,,GRC314[P],,Unknown(MN636838.1 Lumpy skin disease virus isolate LSD-58)
+ 6,,,,,,,,GRC386-16[P],,Unknown(MK441838.1 Lumpy skin disease virus strain Herbiva)
+ 6,,,,,,,,GRC478[P],,Unknown(MG972412.1 Lumpy skin disease virus isolate Cro201)
+ 6,,,,,,,,GRC498A[P],,Unknown(KX764643.1 Lumpy skin disease virus strain SIS-Lum)
+ 6,,,,,,,,GRC715[P],,Unknown(KX764645.1 Lumpy skin disease virus strain Neethli)
+ 6,,,,,,,,MKD5000[P],,Unknown(AF409138.1 Lumpy skin disease virus isolate Neethl)
+ 6,,,,,,,,MKD5011[P],,
+ 6,,,,,,,,SRB4592[P],,
+ 6,,,,,,,,SRB5778[P],,
+ 6,,,,,,,,SRB6040[P],,
+ 6,,,,,,,,SRB7695[P],,
+ 6,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/[P],,
+ 6,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik[P],,
+ 6,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru[P],,
+ 6,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920[P],,
+ 6,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, [P],,
+ 6,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru[P],,
+ 6,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1[P],,
+ 6,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1[P],,
+ 6,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W[P],,
+ 6,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV[P],,
+ 6,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is[P],,
+ 6,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C[P],,
+ 6,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2[P],,
+ 6,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,[P],,
+ 6,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02[P],,
+ 6,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat[P],,
+ 6,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate [P],,
+
+ 7 ,7~, 146875, 8355, 144347, 6168, 146603, 8329,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,Unknown (MT134042.1 Lumpy skin disease virus strain LSDV/Ru),SRB6402, 5.22799614666813E-53, 1.54171158885643E-43, 9.78518697504E-39, 1.97749539823675E-26, 7.81426142907749E-26, 3.17963799957839E-21,NS,NS, 4.04121180963557E-14,
+ 7,,,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 7,,,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 7,,,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 7,,,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 7,,,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 7,,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 7,,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 7,,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 7,,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 7,,,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 7,,,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 7,,,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 7,,,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli
+ 7,,,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl
+
+ 8 ,8~, 17137, 56075, 17095, 56018, 17093, 56013,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,Unknown (SRB6402), 1.60322652547545E-52, 1.56355740726741E-47, 2.59367329519573E-36, 3.19187303392365E-32, 2.69893252589013E-32, 2.79870435700241E-30,NS,NS, 4.04121180963557E-14,
+ 8,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,Unknown(MT992618.1 Lumpy skin disease virus isolate KZ-Kos)
+ 8,,,,,,,,,ALB790,Unknown(OM530217.1 Lumpy skin disease virus isolate LSDV/R)
+ 8,,,,,,,,,ALB1000,Unknown(MH646674.1 Lumpy skin disease virus strain LSDV/Ru)
+ 8,,,,,,,,,ALB1573,Unknown(MW656252.1 Lumpy skin disease virus isolate LSDV/H)
+ 8,,,,,,,,,ALB1707,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14)
+ 8,,,,,,,,,ALB4192,Unknown(MN636842.1 Lumpy skin disease virus isolate LSD-22)
+ 8,,,,,,,,,ALB4770,Unknown(MN636841.1 Lumpy skin disease virus isolate LSD-22)
+ 8,,,,,,,,,KY829023,Unknown(MN636840.1 Lumpy skin disease virus isolate LSD-24)
+ 8,,,,,,,,,GRC314,Unknown(MN636839.1 Lumpy skin disease virus isolate LSD-10)
+ 8,,,,,,,,,GRC386-16,Unknown(MN636838.1 Lumpy skin disease virus isolate LSD-58)
+ 8,,,,,,,,,GRC478,Unknown(MK441838.1 Lumpy skin disease virus strain Herbiva)
+ 8,,,,,,,,,GRC498A,Unknown(MG972412.1 Lumpy skin disease virus isolate Cro201)
+ 8,,,,,,,,,GRC715,Unknown(KX764643.1 Lumpy skin disease virus strain SIS-Lum)
+ 8,,,,,,,,,MKD5000,Unknown(KX764645.1 Lumpy skin disease virus strain Neethli)
+ 8,,,,,,,,,MKD5011,Unknown(AF409138.1 Lumpy skin disease virus isolate Neethl)
+ 8,,,,,,,,,SRB4592,
+ 8,,,,,,,,,SRB5778,
+ 8,,,,,,,,,SRB6040,
+ 8,,,,,,,,,SRB7695,
+ 8,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 8,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 8,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 8,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 8,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 8,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 8,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 8,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 8,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 8,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 8,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 8,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 8,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 8,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 8,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 8,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 9 ,9~, 124084, 134763*, 121667, 132341*, 123912, 134583*,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 1.1250981949956E-45, 2.45692217184249E-30, 1.86424038574521E-46, 8.73407563716308E-20, 7.17000826968745E-20, 5.65286401846903E-25,NS,NS, 4.04121180963557E-14,
+ 9,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 9,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 9,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 9,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 9,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 9,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 9,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 9,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 9,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 9,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 9,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 9,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 9,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 9,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 9,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 9,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 9,,,,,,,,,SRB5778,
+ 9,,,,,,,,,SRB6040,
+ 9,,,,,,,,,SRB7695,
+ 9,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 9,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 9,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 9,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 9,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 9,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 9,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 9,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 9,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 9,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 9,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 9,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 9,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 9,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 9,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 9,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 10 ,10, 149276, 1614, 148938, 1614, 149000, 1614,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OK318001.1 Lumpy skin disease virus isolate V281, ,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 3.45473262078999E-35, 1.07251349155512E-22, 6.44222613668946E-22, 2.79565799097022E-07, 1.49700055310993E-07,NS,NS,NS, 4.48574510869548E-12,
+ 10,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 10,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,ALB790,
+ 10,,,,,,,,,ALB1000,
+ 10,,,,,,,,,ALB1573,
+ 10,,,,,,,,,ALB1707,
+ 10,,,,,,,,,ALB4192,
+ 10,,,,,,,,,ALB4770,
+ 10,,,,,,,,,KY829023,
+ 10,,,,,,,,,GRC314,
+ 10,,,,,,,,,GRC386-16,
+ 10,,,,,,,,,GRC478,
+ 10,,,,,,,,,GRC498A,
+ 10,,,,,,,,,GRC715,
+ 10,,,,,,,,,MKD5000,
+ 10,,,,,,,,,MKD5011,
+ 10,,,,,,,,,SRB4592,
+ 10,,,,,,,,,SRB5778,
+ 10,,,,,,,,,SRB6040,
+ 10,,,,,,,,,SRB7695,
+ 10,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 10,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 10,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 10,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 10,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 10,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 10,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 10,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 10,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 10,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 10,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 10,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 10,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 10,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 11 ,11~, 5264, 5805, 5259, 5797, 5256, 5794,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 9.45287411826531E-29, 6.88490054145764E-27, 1.90910409608015E-26, 1.12865802835523E-11, 1.04422957863396E-11, 9.45923940078866E-10,NS,NS, 8.08242361927114E-14,
+ 11,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 11,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 11,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 11,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 11,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 11,,,,,,,,,ALB4192,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 11,,,,,,,,,ALB4770,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 11,,,,,,,,,KY829023,OL542833.1 Lumpy skin disease virus isolate LSDV/R
+ 11,,,,,,,,,GRC314,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 11,,,,,,,,,GRC386-16,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 11,,,,,,,,,GRC478,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 11,,,,,,,,,GRC498A,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 11,,,,,,,,,GRC715,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 11,,,,,,,,,MKD5000,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 11,,,,,,,,,MKD5011,MW355944.1 Lumpy skin disease virus strain China/G
+ 11,,,,,,,,,SRB4592,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 11,,,,,,,,,SRB5778,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 11,,,,,,,,,SRB6040,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 11,,,,,,,,,SRB7695,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 11,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 11,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 11,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,SRB6402
+ 11,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 11,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,OM803092.1 Lumpy skin disease virus strain China/G
+ 11,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,OM803091.1 Lumpy skin disease virus strain China/G
+ 11,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 11,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 11,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 11,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 11,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 11,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 11,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 11,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 11,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 11,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 12 ,12, 66801, 83761, 66727, 83666, 66736, 83675,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 9.49865795341138E-29, 1.52312757119333E-26, 1.95200156391238E-19, 1.4777014202516E-14, 8.88218247535721E-14, 8.89659432439461E-14,NS,NS, 8.08242361927114E-14,
+ 12,,,,,,,,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 12,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 12,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 12,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 12,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 12,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 12,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 12,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 12,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 12,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 12,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 12,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 12,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC715,
+ 12,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,MKD5000,
+ 12,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5011,
+ 12,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 12,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB5778,
+ 12,,,,,,,,,SRB6040,
+ 12,,,,,,,,,SRB7695,
+ 12,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 12,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 12,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 12,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 12,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 12,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 12,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 12,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 12,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 12,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 12,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 12,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 12,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 12,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 12,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 12,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 13 ,13~, 149463, 1290, 149062, 1290, 149187, 1290,OM793603.1 Lumpy skin disease virus isolate LSDV_R,Unknown (MH893760.2 Lumpy skin disease virus strain LSDV/Ru),OP508345.1 Lumpy skin disease virus isolate China/, 2.35334116796717E-25, 7.99974299384056E-19, 8.74046611010604E-08, 3.88184160089275E-04, 6.3523495941403E-04,NS,NS,NS, 4.30559992103952E-08,
+ 13,,,,,,,,,Unknown(MT643825.1 Lumpy skin disease virus strain 210LSD-),MW355944.1 Lumpy skin disease virus strain China/G
+ 13,,,,,,,,,Unknown(ALB790),
+ 13,,,,,,,,,Unknown(ALB1000),
+ 13,,,,,,,,,Unknown(ALB1573),
+ 13,,,,,,,,,Unknown(ALB1707),
+ 13,,,,,,,,,Unknown(ALB4192),
+ 13,,,,,,,,,Unknown(ALB4770),
+ 13,,,,,,,,,Unknown(KY829023),
+ 13,,,,,,,,,Unknown(GRC314),
+ 13,,,,,,,,,Unknown(GRC386-16),
+ 13,,,,,,,,,Unknown(GRC478),
+ 13,,,,,,,,,Unknown(GRC498A),
+ 13,,,,,,,,,Unknown(GRC715),
+ 13,,,,,,,,,Unknown(MKD5000),
+ 13,,,,,,,,,Unknown(MKD5011),
+ 13,,,,,,,,,Unknown(SRB4592),
+ 13,,,,,,,,,Unknown(SRB5778),
+ 13,,,,,,,,,Unknown(SRB6040),
+ 13,,,,,,,,,Unknown(SRB7695),
+ 13,,,,,,,,,Unknown(MN642592.1 Lumpy skin disease virus strain Kubash/),
+ 13,,,,,,,,,Unknown(MN995838.1 Lumpy skin disease virus isolate pendik),
+ 13,,,,,,,,,Unknown(KX894508.1 Lumpy skin disease virus isolate 155920),
+ 13,,,,,,,,,Unknown(OK318001.1 Lumpy skin disease virus isolate V281, ),
+ 13,,,,,,,,,Unknown(MW699032.1 Lumpy skin disease virus strain LSDV/Ru),
+ 13,,,,,,,,,Unknown(OP688129.1 Lumpy skin disease virus isolate V395.1),
+ 13,,,,,,,,,Unknown(OP688128.1 Lumpy skin disease virus isolate V392.1),
+ 13,,,,,,,,,Unknown(OP297402.1 Lumpy skin disease virus isolate LSDV-W),
+ 13,,,,,,,,,Unknown(MT007950.1 UNVERIFIED: Lumpy skin disease virus is),
+ 13,,,,,,,,,Unknown(MW656253.1 Lumpy skin disease virus isolate LSDV/2),
+ 13,,,,,,,,,Unknown(MN072619.1 Lumpy skin disease virus isolate Kenya,),
+ 13,,,,,,,,,Unknown(KX683219.1 Lumpy skin disease virus strain KSGP 02),
+ 13,,,,,,,,,Unknown(AF325528.1 Lumpy skin disease virus NI-2490 isolat),
+ 13,,,,,,,,,Unknown(AF409137.1 Lumpy skin disease virus NW-LW isolate ),
+
+ 14 ,14, 122285, 129534, 122057, 129305, 122113, 129357,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 8.09944455271415E-23, 2.05632128189797E-21, 2.60059224054815E-14, 2.2359484418331E-13, 4.46588830597267E-12, 1.36942829782706E-12,NS,NS, 8.08242361927114E-14,
+ 14,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 14,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 14,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 14,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 14,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 14,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 14,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 14,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 14,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 14,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 14,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 14,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 14,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 14,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 14,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 14,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 14,,,,,,,,,SRB5778,
+ 14,,,,,,,,,SRB6040,
+ 14,,,,,,,,,SRB7695,
+ 14,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 14,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 14,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 14,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 14,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 14,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 14,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 14,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 14,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 14,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 14,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 14,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 14,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 14,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 14,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 14,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 15 ,15~, 78444, 83761, 78363, 83677, 78361, 83675,^MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OM530217.1 Lumpy skin disease virus isolate LSDV/R,Unknown (SRB6402), 5.16534627680176E-20, 2.10936615883394E-17, 4.9008619906286E-16, 1.67337677585894E-09, 3.79274067572786E-08, 3.33509794009645E-09,NS,NS, 4.04121180963557E-14,
+ 15,,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,Unknown(MW656252.1 Lumpy skin disease virus isolate LSDV/H)
+ 15,,,,,,,,,,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14)
+ 15,,,,,,,,,,Unknown(MN636842.1 Lumpy skin disease virus isolate LSD-22)
+ 15,,,,,,,,,,Unknown(MN636841.1 Lumpy skin disease virus isolate LSD-22)
+ 15,,,,,,,,,,Unknown(MN636840.1 Lumpy skin disease virus isolate LSD-24)
+ 15,,,,,,,,,,Unknown(MN636839.1 Lumpy skin disease virus isolate LSD-10)
+ 15,,,,,,,,,,Unknown(MN636838.1 Lumpy skin disease virus isolate LSD-58)
+ 15,,,,,,,,,,Unknown(MK441838.1 Lumpy skin disease virus strain Herbiva)
+ 15,,,,,,,,,,Unknown(MG972412.1 Lumpy skin disease virus isolate Cro201)
+ 15,,,,,,,,,,Unknown(KX764643.1 Lumpy skin disease virus strain SIS-Lum)
+ 15,,,,,,,,,,Unknown(KX764645.1 Lumpy skin disease virus strain Neethli)
+ 15,,,,,,,,,,Unknown(AF409138.1 Lumpy skin disease virus isolate Neethl)
+
+ 16 ,16, 60571, 71225, 60506, 71144, 60506, 71142,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 5.12157132075939E-22, 1.52284415974163E-19, 8.8046692312593E-09, 6.89759144226361E-17, 3.05212054920333E-16, 2.54270585375422E-05,NS,NS, 8.08242361927114E-14,
+ 16,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 16,,,,,,,,,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 16,,,,,,,,,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 16,,,,,,,,,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 16,,,,,,,,,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 16,,,,,,,,,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 16,,,,,,,,,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 16,,,,,,,,,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 16,,,,,,,,,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 16,,,,,,,,,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 16,,,,,,,,,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 16,,,,,,,,,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 16,,,,,,,,,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 16,,,,,,,,,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 16,,,,,,,,,MKD5011,
+ 16,,,,,,,,,SRB4592,
+ 16,,,,,,,,,SRB5778,
+ 16,,,,,,,,,SRB6040,
+ 16,,,,,,,,,SRB7695,
+ 16,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 16,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 16,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 16,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 16,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 16,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 16,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 16,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 16,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 16,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 16,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 16,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 16,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 16,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 16,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 16,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 17 ,17, 66801, 83333, 66745, 83254, 66736, 83247,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 1.54989958960771E-19, 3.8004591436061E-16, 4.83442562440371E-07, 6.59705304379881E-10, 1.44983329484976E-09, 4.65772636195385E-13,NS,NS, 8.08242361927114E-14,
+ 17,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 17,,,,,,,,,ALB790,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 17,,,,,,,,,ALB1000,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 17,,,,,,,,,ALB1573,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 17,,,,,,,,,ALB1707,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 17,,,,,,,,,ALB4192,SRB6402
+ 17,,,,,,,,,ALB4770,
+ 17,,,,,,,,,KY829023,
+ 17,,,,,,,,,GRC314,
+ 17,,,,,,,,,GRC386-16,
+ 17,,,,,,,,,GRC478,
+ 17,,,,,,,,,GRC498A,
+ 17,,,,,,,,,GRC715,
+ 17,,,,,,,,,MKD5000,
+ 17,,,,,,,,,MKD5011,
+ 17,,,,,,,,,SRB4592,
+ 17,,,,,,,,,SRB5778,
+ 17,,,,,,,,,SRB6040,
+ 17,,,,,,,,,SRB7695,
+ 17,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 17,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 17,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 17,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 17,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 17,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 17,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 17,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 17,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 17,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 17,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 17,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 17,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 17,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 17,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 17,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 18 ,18, 146220, 4365, 145953, 4358, 145950, 4358,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 1.80229652150111E-22, 1.76861160616893E-16, 1.75429031561779E-20, 1.74435440721116E-15, 1.9252486278266E-07, 3.2712518525755E-06,NS,NS, 4.04121180963557E-14,
+ 18,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72[P],MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 18,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T[P],ALB790,
+ 18,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1000,
+ 18,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ[P],ALB1573,
+ 18,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R[P],ALB1707,
+ 18,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K[P],ALB4192,
+ 18,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B[P],ALB4770,
+ 18,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D[P],KY829023,
+ 18,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L[P],GRC314,
+ 18,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q[P],GRC386-16,
+ 18,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G[P],GRC478,
+ 18,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch[P],GRC498A,
+ 18,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G[P],GRC715,
+ 18,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G[P],MKD5000,
+ 18,,,,,,,,,MKD5011,
+ 18,,,,,,,,,SRB4592,
+ 18,,,,,,,,,SRB5778,
+ 18,,,,,,,,,SRB6040,
+ 18,,,,,,,,,SRB7695,
+ 18,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 18,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 18,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 18,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 18,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 18,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 18,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 18,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 18,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 18,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 18,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 18,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 18,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 18,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 18,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 18,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 19 ,19, 119296, 122510*, 119076, 122278*, 119135, 122338*,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,SRB6402, 4.53429205503741E-19, 1.67666407310595E-13, 1.82131969289233E-06, 1.47510763182796E-12, 3.82941077988477E-12,NS,NS,NS, 1.21236354289067E-13,
+ 19,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 19,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 19,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 19,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 19,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 19,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 19,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 19,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 19,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 19,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 19,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 19,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 19,,,,,,,,,GRC715,
+ 19,,,,,,,,,MKD5000,
+ 19,,,,,,,,,MKD5011,
+ 19,,,,,,,,,SRB4592,
+ 19,,,,,,,,,SRB5778,
+ 19,,,,,,,,,SRB6040,
+ 19,,,,,,,,,SRB7695,
+ 19,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 19,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 19,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 19,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 19,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 19,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 19,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 19,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 19,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 20 ,20~, 77946, 83761, 77869, 83681, 77863, 83675,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 1.18818702425972E-16, 3.01783024160539E-19, 4.05792397267453E-15, 2.53275247326942E-09, 2.52884368943534E-09, 1.34089581578436E-10,NS,NS, 1.21236354289067E-13,
+ 20,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 20,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 20,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 20,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 20,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 20,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 20,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 20,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 20,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 20,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 20,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 20,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 20,,,,,,,,,GRC715,
+ 20,,,,,,,,,MKD5000,
+ 20,,,,,,,,,MKD5011,
+ 20,,,,,,,,,SRB4592,
+ 20,,,,,,,,,SRB5778,
+ 20,,,,,,,,,SRB6040,
+ 20,,,,,,,,,SRB7695,
+ 20,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 20,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 20,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 20,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 20,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 20,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 20,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 20,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 20,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 20,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 20,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 20,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 20,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 20,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 20,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 20,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 21 ,21~, 148853, 4365, 148506, 4358, 148577, 4358,OP508345.1 Lumpy skin disease virus isolate China/,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 6.55895549307887E-19, 3.22779080705566E-17, 3.08035301022859E-17, 6.72555297145209E-13, 2.21750693978663E-10, 1.61148437982529E-09,NS,NS, 2.32612151762623E-10,
+ 21,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 21,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,ALB790,
+ 21,,,,,,,,,ALB1000,
+ 21,,,,,,,,,ALB1573,
+ 21,,,,,,,,,ALB1707,
+ 21,,,,,,,,,ALB4192,
+ 21,,,,,,,,,ALB4770,
+ 21,,,,,,,,,KY829023,
+ 21,,,,,,,,,GRC314,
+ 21,,,,,,,,,GRC386-16,
+ 21,,,,,,,,,GRC478,
+ 21,,,,,,,,,GRC498A,
+ 21,,,,,,,,,GRC715,
+ 21,,,,,,,,,MKD5000,
+ 21,,,,,,,,,MKD5011,
+ 21,,,,,,,,,SRB4592,
+ 21,,,,,,,,,SRB5778,
+ 21,,,,,,,,,SRB6040,
+ 21,,,,,,,,,SRB7695,
+ 21,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 21,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 21,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 21,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 21,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 21,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 21,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 21,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 21,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 21,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 21,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 21,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 21,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 21,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 21,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 21,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 22 ,22, 95645, 99661, 93282, 97292, 95504, 99517,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OM793603.1 Lumpy skin disease virus isolate LSDV_R,Unknown (SRB6402), 8.79618014943659E-19, 1.11580498138071E-16, 3.78311394508265E-18, 2.39580708724881E-10, 1.77673086448151E-08, 4.15533850890649E-03,NS,NS, 1.4350293620069E-07,
+ 22,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-[P],ON152411.1 Lumpy skin disease virus isolate LSDV72,Unknown(MW656252.1 Lumpy skin disease virus isolate LSDV/H)
+ 22,,,,,,,,ALB790[P],OP508345.1 Lumpy skin disease virus isolate China/,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14)
+ 22,,,,,,,,ALB1000[P],OM033705.1 Lumpy skin disease virus isolate LSDV/T,Unknown(MN636842.1 Lumpy skin disease virus isolate LSD-22)
+ 22,,,,,,,,ALB1573[P],ON616408.1 Lumpy skin disease virus strain LSDV/NM,Unknown(MN636841.1 Lumpy skin disease virus isolate LSD-22)
+ 22,,,,,,,,ALB1707[P],OM984485.1 Lumpy skin disease virus strain LSDV XJ,Unknown(MN636840.1 Lumpy skin disease virus isolate LSD-24)
+ 22,,,,,,,,ALB4192[P],OM793602.1 Lumpy skin disease virus isolate LSDV_R,Unknown(MN636839.1 Lumpy skin disease virus isolate LSD-10)
+ 22,,,,,,,,ALB4770[P],OL752713.1 Lumpy skin disease virus isolate LSDV/K,Unknown(MN636838.1 Lumpy skin disease virus isolate LSD-58)
+ 22,,,,,,,,KY829023[P],MW732649.1 Lumpy skin disease virus strain LSDV/Ho,Unknown(MK441838.1 Lumpy skin disease virus strain Herbiva)
+ 22,,,,,,,,GRC314[P],MZ577076.1 Lumpy skin disease virus strain 20L81_B,Unknown(MG972412.1 Lumpy skin disease virus isolate Cro201)
+ 22,,,,,,,,GRC386-16[P],MZ577075.1 Lumpy skin disease virus strain 20L70_D,Unknown(KX764643.1 Lumpy skin disease virus strain SIS-Lum)
+ 22,,,,,,,,GRC478[P],MZ577074.1 Lumpy skin disease virus strain 20L43_L,Unknown(KX764645.1 Lumpy skin disease virus strain Neethli)
+ 22,,,,,,,,GRC498A[P],MZ577073.1 Lumpy skin disease virus strain 20L42_Q,Unknown(AF409138.1 Lumpy skin disease virus isolate Neethl)
+ 22,,,,,,,,GRC715[P],MW355944.1 Lumpy skin disease virus strain China/G,
+ 22,,,,,,,,MKD5000[P],OM105589.1 Lumpy skin disease virus strain LSDV/Ch,
+ 22,,,,,,,,MKD5011[P],OM803092.1 Lumpy skin disease virus strain China/G,
+ 22,,,,,,,,SRB4592[P],OM803091.1 Lumpy skin disease virus strain China/G,
+ 22,,,,,,,,SRB5778[P],,
+ 22,,,,,,,,SRB6040[P],,
+ 22,,,,,,,,SRB7695[P],,
+ 22,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/[P],,
+ 22,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik[P],,
+ 22,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru[P],,
+ 22,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920[P],,
+ 22,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, [P],,
+ 22,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru[P],,
+ 22,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1[P],,
+ 22,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1[P],,
+ 22,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W[P],,
+ 22,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV[P],,
+ 22,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is[P],,
+ 22,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C[P],,
+ 22,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2[P],,
+ 22,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,[P],,
+ 22,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02[P],,
+ 22,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat[P],,
+ 22,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate [P],,
+
+ 23 ,23~, 135866, 136799, 135619, 136547, 135684, 136612,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,SRB6402, 1.70532629989761E-17, 1.03459489437545E-17,NS, 1.2592061295958E-06, 1.70067762801336E-07,NS,NS,NS, 3.63709062867201E-13,
+ 23,,,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 23,,,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 23,,,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 23,,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 23,,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 23,,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 23,,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 23,,,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 23,,,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 23,,,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 23,,,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli
+ 23,,,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl
+
+ 24 ,24~, 122392, 127655, 122148, 127409, 122220, 127481,^MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,OP508345.1 Lumpy skin disease virus isolate China/, 9.84258253878049E-17, 5.22376748669961E-14, 2.72406890788294E-06, 4.61876227235125E-04, 9.04090636132393E-05, 1.22799401846064E-06,NS,NS, 4.04121180963557E-14,
+ 24,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 24,,,,,,,,,ALB790,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 24,,,,,,,,,ALB1000,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 24,,,,,,,,,ALB1573,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 24,,,,,,,,,ALB1707,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 24,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 24,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 24,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 24,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 24,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 24,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 24,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 24,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 24,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 24,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 24,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 24,,,,,,,,,SRB5778,
+ 24,,,,,,,,,SRB6040,
+ 24,,,,,,,,,SRB7695,
+ 24,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 24,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 24,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 24,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 24,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 24,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 24,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 24,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 24,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 24,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 24,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 24,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 24,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 24,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 24,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 24,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 25 ,25, 132672, 134763*, 132443, 134534*, 132495, 134583*,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 3.19926423128359E-16, 3.4726725021143E-15, 3.20170676337252E-16, 1.47760292280148E-06, 3.55553142061616E-07,NS,NS,NS, 2.41947351042882E-10,
+ 25,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 25,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 25,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 25,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 25,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 25,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 25,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 25,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 25,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 25,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 25,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 25,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 25,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 25,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 25,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 25,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 25,,,,,,,,,SRB5778,
+ 25,,,,,,,,,SRB6040,
+ 25,,,,,,,,,SRB7695,
+ 25,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 25,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 25,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 25,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 25,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 25,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 25,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 25,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 25,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 25,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 25,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 25,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 25,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 25,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 25,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 25,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 26 ,26, 140600, 144037*, 140339, 143776*, 140332, 143768*,OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 7.32775464215154E-15, 4.166687775709E-14, 8.53508320021054E-15, 1.66479395358737E-10, 1.65463283190859E-10, 1.32054354244263E-05,NS,NS, 1.75186531947702E-10,
+ 26,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 26,,,,,,,,,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 26,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 26,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 26,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 26,,,,,,,,,ALB4192,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 26,,,,,,,,,ALB4770,SRB6402
+ 26,,,,,,,,,KY829023,
+ 26,,,,,,,,,GRC314,
+ 26,,,,,,,,,GRC386-16,
+ 26,,,,,,,,,GRC478,
+ 26,,,,,,,,,GRC498A,
+ 26,,,,,,,,,GRC715,
+ 26,,,,,,,,,MKD5000,
+ 26,,,,,,,,,MKD5011,
+ 26,,,,,,,,,SRB4592,
+ 26,,,,,,,,,SRB5778,
+ 26,,,,,,,,,SRB6040,
+ 26,,,,,,,,,SRB7695,
+ 26,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 26,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 26,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 26,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 26,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 26,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 26,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 26,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 26,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 26,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 26,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 26,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 26,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 26,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 26,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 26,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 27 ,27~, 145584, 148805*, 145249, 148458*, 145314, 148529*,^OP508345.1 Lumpy skin disease virus isolate China/,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MW732649.1 Lumpy skin disease virus strain LSDV/Ho, 1.10683220886678E-14, 7.1453690041401E-14, 9.85197746204291E-09, 1.48145966528938E-04, 1.47291279046569E-04,NS,NS,NS, 5.95209881382175E-09,
+ 27,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,OM530217.1 Lumpy skin disease virus isolate LSDV/R,
+ 27,,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H,
+ 27,,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14,
+ 27,,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22,
+ 27,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22,
+ 27,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24,
+ 27,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10,
+ 27,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58,
+ 27,,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva,
+ 27,,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201,
+ 27,,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum,
+ 27,,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli,
+ 27,,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl,
+ 27,,,,,,,,,SRB6402,
+
+ 28 ,28~, 43120, 50456, 43063, 50398, 43060, 50395,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 1.33697257776282E-14, 6.75413373233541E-11, 2.37683346158629E-08, 6.41684642710002E-10,NS, 2.65577786253246E-06,NS,NS, 1.21236354289067E-13,
+ 28,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,OL542833.1 Lumpy skin disease virus isolate LSDV/R
+ 28,,,,,,,,,ALB790,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 28,,,,,,,,,ALB1000,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 28,,,,,,,,,ALB1573,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 28,,,,,,,,,ALB1707,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 28,,,,,,,,,ALB4192,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 28,,,,,,,,,ALB4770,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 28,,,,,,,,,KY829023,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 28,,,,,,,,,GRC314,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 28,,,,,,,,,GRC386-16,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 28,,,,,,,,,GRC478,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 28,,,,,,,,,GRC498A,KX764645.1 Lumpy skin disease virus strain Neethli
+ 28,,,,,,,,,GRC715,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 28,,,,,,,,,MKD5000,
+ 28,,,,,,,,,MKD5011,
+ 28,,,,,,,,,SRB4592,
+ 28,,,,,,,,,SRB5778,
+ 28,,,,,,,,,SRB6040,
+ 28,,,,,,,,,SRB7695,
+ 28,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 28,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 28,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 28,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 28,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 28,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 28,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 28,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 28,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 28,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 28,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 28,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 28,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 28,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 28,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 28,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 29 ,29, 25158, 28244, 22931, 26015, 25105, 28190,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 1.3945521118811E-14, 2.25300810835322E-12, 1.39056195068621E-14, 5.41117250295368E-07, 8.1482480159666E-07,NS,NS,NS, 5.82160808448862E-09,
+ 29,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 29,,,,,,,,,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 29,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 29,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 29,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 29,,,,,,,,,ALB4192,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 29,,,,,,,,,ALB4770,SRB6402
+ 29,,,,,,,,,KY829023,
+ 29,,,,,,,,,GRC314,
+ 29,,,,,,,,,GRC386-16,
+ 29,,,,,,,,,GRC478,
+ 29,,,,,,,,,GRC498A,
+ 29,,,,,,,,,GRC715,
+ 29,,,,,,,,,MKD5000,
+ 29,,,,,,,,,MKD5011,
+ 29,,,,,,,,,SRB4592,
+ 29,,,,,,,,,SRB5778,
+ 29,,,,,,,,,SRB6040,
+ 29,,,,,,,,,SRB7695,
+ 29,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 29,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 29,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 29,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 29,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 29,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 29,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 29,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 29,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 29,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 29,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 29,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 29,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 29,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 29,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 29,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 30 ,30, 29190, 32776, 29138, 32723, 29135, 32720,OM530217.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,OP508345.1 Lumpy skin disease virus isolate China/, 3.970822863095E-14, 1.01471793335279E-12, 3.9734819835381E-14, 1.21797644758436E-06, .004834398054895,NS,NS,NS, 1.98113600191618E-07,
+ 30,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 30,,,,,,,,,ALB790,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 30,,,,,,,,,ALB1000,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 30,,,,,,,,,ALB1573,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 30,,,,,,,,,ALB1707,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 30,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 30,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 30,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 30,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 30,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 30,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 30,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 30,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 30,,,,,,,,,MKD5000,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 30,,,,,,,,,MKD5011,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 30,,,,,,,,,SRB4592,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 30,,,,,,,,,SRB5778,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 30,,,,,,,,,SRB6040,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 30,,,,,,,,,SRB7695,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 30,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,SRB6402
+ 30,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 30,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,OM803092.1 Lumpy skin disease virus strain China/G
+ 30,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,OM803091.1 Lumpy skin disease virus strain China/G
+ 30,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 30,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 30,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 30,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 30,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 30,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 30,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 30,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 30,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 30,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 30,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 30,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 31 ,31~, 124084, 127281*, 123849, 127044*, 123912, 127107*,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 4.05441071342973E-14, 3.61662212764596E-10, 6.85071690075695E-07, 1.34586426602923E-06, 1.022370256744E-06, 2.4569216204463E-04,NS,NS, 5.02480627107005E-08,
+ 31,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 31,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 31,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 31,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 31,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 31,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 31,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 31,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 31,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 31,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 31,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 31,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 31,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 31,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 31,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 31,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 31,,,,,,,,,SRB5778,
+ 31,,,,,,,,,SRB6040,
+ 31,,,,,,,,,SRB7695,
+ 31,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 31,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 31,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 31,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 31,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 31,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 31,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 31,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 31,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 31,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 31,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 31,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 31,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 31,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 31,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 31,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 32 ,32, 105258, 108720, 102889, 106348, 105108, 108567,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 1.30473779730771E-13, 6.75726922333419E-12, 2.67002403697127E-12, 1.09619014407684E-07, 1.74823639439694E-07, 1.25825611216292E-08,NS,NS, 4.48370419681154E-08,
+ 32,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 32,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 32,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 32,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 32,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 32,,,,,,,,,ALB4192,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 32,,,,,,,,,ALB4770,SRB6402
+ 32,,,,,,,,,KY829023,
+ 32,,,,,,,,,GRC314,
+ 32,,,,,,,,,GRC386-16,
+ 32,,,,,,,,,GRC478,
+ 32,,,,,,,,,GRC498A,
+ 32,,,,,,,,,GRC715,
+ 32,,,,,,,,,MKD5000,
+ 32,,,,,,,,,MKD5011,
+ 32,,,,,,,,,SRB4592,
+ 32,,,,,,,,,SRB5778,
+ 32,,,,,,,,,SRB6040,
+ 32,,,,,,,,,SRB7695,
+ 32,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 32,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 32,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 32,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 32,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 32,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 32,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 32,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 32,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 32,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 32,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 32,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 32,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 32,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 32,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 32,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 33 ,33~, 119484, 121586, 119250, 121348, 119323, 121421,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 2.5121076836138E-13, 5.11806420681882E-09, 7.87865546188372E-07, 3.52569558710504E-10, 1.22210944093252E-08, 2.07323202460123E-07,NS,NS, 1.43867140423026E-10,
+ 33,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 33,,,,,,,,,ALB790,SRB6402
+ 33,,,,,,,,,ALB1000,
+ 33,,,,,,,,,ALB1573,
+ 33,,,,,,,,,ALB1707,
+ 33,,,,,,,,,ALB4192,
+ 33,,,,,,,,,ALB4770,
+ 33,,,,,,,,,KY829023,
+ 33,,,,,,,,,GRC314,
+ 33,,,,,,,,,GRC386-16,
+ 33,,,,,,,,,GRC478,
+ 33,,,,,,,,,GRC498A,
+ 33,,,,,,,,,GRC715,
+ 33,,,,,,,,,MKD5000,
+ 33,,,,,,,,,MKD5011,
+ 33,,,,,,,,,SRB4592,
+ 33,,,,,,,,,SRB5778,
+ 33,,,,,,,,,SRB6040,
+ 33,,,,,,,,,SRB7695,
+ 33,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 33,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 33,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 33,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 33,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 33,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 33,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 33,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 33,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 33,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 33,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 33,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 33,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 33,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 33,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 33,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 34 ,34~, 132779, 134190, 132526, 133937, 132602, 134010,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OK318001.1 Lumpy skin disease virus isolate V281, ,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 1.07595597694745E-08, 1.60762698387158E-14, 9.02948441796937E-14, 1.29876428259949E-03, 2.71245443823018E-03,NS,NS,NS, 3.73876340997725E-08,
+ 34,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 34,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 34,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 34,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 34,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 34,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 34,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 34,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 34,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 34,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 34,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 34,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 34,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 34,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 34,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 34,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 34,,,,,,,,,SRB5778,
+ 34,,,,,,,,,SRB6040,
+ 34,,,,,,,,,SRB7695,
+ 34,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 34,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 34,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 34,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 34,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 34,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 34,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 34,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 34,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 34,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 34,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 34,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 34,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 34,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 34,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 34,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 35 ,35, 143890, 146789, 143525, 146416, 143621, 146517,^MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,MW732649.1 Lumpy skin disease virus strain LSDV/Ho, 1.78954042093635E-15, 1.96882668764656E-12, 1.91051263546405E-12, 1.40651274660754E-03, 1.68365042630292E-04, 1.19915317238315E-09,NS,NS, 4.04121180963557E-14,
+ 35,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 35,,,,,,,,,ALB790,
+ 35,,,,,,,,,ALB1000,
+ 35,,,,,,,,,ALB1573,
+ 35,,,,,,,,,ALB1707,
+ 35,,,,,,,,,ALB4192,
+ 35,,,,,,,,,ALB4770,
+ 35,,,,,,,,,KY829023,
+ 35,,,,,,,,,GRC314,
+ 35,,,,,,,,,GRC386-16,
+ 35,,,,,,,,,GRC478,
+ 35,,,,,,,,,GRC498A,
+ 35,,,,,,,,,GRC715,
+ 35,,,,,,,,,MKD5000,
+ 35,,,,,,,,,MKD5011,
+ 35,,,,,,,,,SRB4592,
+ 35,,,,,,,,,SRB5778,
+ 35,,,,,,,,,SRB6040,
+ 35,,,,,,,,,SRB7695,
+ 35,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 35,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 35,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 35,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 35,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 35,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 35,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 35,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 35,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 35,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 35,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 35,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 35,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 35,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 35,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 35,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 36 ,36~, 139955*, 142475, 139596*, 142110, 139688*, 142207,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 6.92058331899208E-14, 2.24376051592701E-11,NS, 1.87460077683534E-09, 1.80796635679775E-09,NS,NS,NS,NS,
+ 36,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 36,,,,,,,,,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 36,,,,,,,,,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 36,,,,,,,,,ALB1573,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 36,,,,,,,,,ALB1707,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 36,,,,,,,,,ALB4192,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 36,,,,,,,,,ALB4770,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 36,,,,,,,,,KY829023,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 36,,,,,,,,,GRC314,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 36,,,,,,,,,GRC386-16,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 36,,,,,,,,,GRC478,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 36,,,,,,,,,GRC498A,KX764645.1 Lumpy skin disease virus strain Neethli
+ 36,,,,,,,,,GRC715,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 36,,,,,,,,,MKD5000,SRB6402
+ 36,,,,,,,,,MKD5011,
+ 36,,,,,,,,,SRB4592,
+ 36,,,,,,,,,SRB5778,
+ 36,,,,,,,,,SRB6040,
+ 36,,,,,,,,,SRB7695,
+ 36,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 36,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 36,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 36,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 36,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 36,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 36,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 36,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 36,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 36,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 36,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 36,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 36,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 36,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 36,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 36,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 37 ,37, 120423, 122452*, 120214, 122236*, 120258, 122280*,^OP508345.1 Lumpy skin disease virus isolate China/,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 2.65858870662458E-13, 5.49809792612703E-15, 2.13261457533656E-12, 4.39694847096777E-10, 4.38905380085383E-10,NS,NS,NS, 1.83378068285833E-09,
+ 37,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 37,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 37,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 37,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 37,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 37,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 37,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 37,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 37,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 37,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 37,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 37,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 37,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,
+ 37,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 37,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 37,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 37,,,,,,,,,SRB5778,
+ 37,,,,,,,,,SRB6040,
+ 37,,,,,,,,,SRB7695,
+ 37,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 37,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 37,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 37,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 37,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 37,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 37,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 37,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 37,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 37,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 37,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 37,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 37,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 37,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 37,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 37,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 38 ,38~, 96697, 99309, 96516, 99127, 96556, 99166,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OM793603.1 Lumpy skin disease virus isolate LSDV_R,SRB6402, 1.94673920128714E-12, 3.68000605744068E-14,NS, 1.56700699675162E-07, 5.06206272134509E-06,NS,NS,NS, 6.36186516578263E-07,
+ 38,,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 38,,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 38,,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 38,,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 38,,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 38,,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 38,,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 38,,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 38,,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 38,,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 38,,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,KX764645.1 Lumpy skin disease virus strain Neethli
+ 38,,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 38,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,
+ 38,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,
+ 38,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,
+ 38,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,
+
+ 39 ,39~, 102451, 111048, 102262, 110850, 102307, 110894,^MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 1.01606930978959E-08, 2.50669497919376E-06, 1.70831550104695E-12, 9.21532851886468E-09, 2.63379507433458E-08, 1.96559532328926E-02,NS,NS, 6.87006007638047E-13,
+ 39,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OL542833.1 Lumpy skin disease virus isolate LSDV/R
+ 39,,,,,,,,,ALB790,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 39,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 39,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 39,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 39,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 39,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 39,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 39,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 39,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 39,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 39,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 39,,,,,,,,,GRC715,SRB6402
+ 39,,,,,,,,,MKD5000,
+ 39,,,,,,,,,MKD5011,
+ 39,,,,,,,,,SRB4592,
+ 39,,,,,,,,,SRB5778,
+ 39,,,,,,,,,SRB6040,
+ 39,,,,,,,,,SRB7695,
+ 39,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 39,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 39,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 39,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 39,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 39,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 39,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 39,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 39,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 39,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 39,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 39,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 39,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 39,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 39,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 39,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 40 ,41~, 9211, 11565, 9198, 11549, 9181, 11530,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 1.87743491585045E-15, 2.38087351103214E-14, 3.37677651749233E-14, 1.31961818101062E-05, 1.06197276345336E-05, 5.34745761078848E-04,NS,NS, 5.39340128113963E-09,
+ 40,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 40,,,,,,,,,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 40,,,,,,,,,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 40,,,,,,,,,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 40,,,,,,,,,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 40,,,,,,,,,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 40,,,,,,,,,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 40,,,,,,,,,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 40,,,,,,,,,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 40,,,,,,,,,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 40,,,,,,,,,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 40,,,,,,,,,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 40,,,,,,,,,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 40,,,,,,,,,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 40,,,,,,,,,MKD5011,SRB6402
+ 40,,,,,,,,,SRB4592,
+ 40,,,,,,,,,SRB5778,
+ 40,,,,,,,,,SRB6040,
+ 40,,,,,,,,,SRB7695,
+ 40,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 40,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 40,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 40,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 40,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 40,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 40,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 40,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 40,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 40,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 40,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 40,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 40,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 40,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 40,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 40,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 41 ,42~, 57233, 61008, 57165, 60935, 57171, 60943,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,Unknown (MH646674.1 Lumpy skin disease virus strain LSDV/Ru),OM793603.1 Lumpy skin disease virus isolate LSDV_R,NS, 9.19959768086454E-12, 2.47518954857704E-09, 9.52427377215055E-03, 9.50242910700849E-03,NS,NS,NS, 1.16642721803562E-06,
+ 41,,,,,,,,,Unknown(OM530217.1 Lumpy skin disease virus isolate LSDV/R),ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 41,,,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/
+ 41,,,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 41,,,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 41,,,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 41,,,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 41,,,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 41,,,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 41,,,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 41,,,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 41,,,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 41,,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G
+ 41,,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 41,,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G
+ 41,,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G
+
+ 42 ,43~, 52703*, 55547, 52644*, 55488, 52641*, 55485,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 2.60201715389471E-11, 4.84652547694947E-10, 2.40851474652191E-09, 1.40420005265629E-05, 1.40172572198163E-05, 1.19144178276118E-05,NS,NS, 1.55069650453754E-07,
+ 42,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 42,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 42,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 42,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 42,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 42,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 42,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 42,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 42,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 42,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 42,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 42,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 42,,,,,,,,,GRC715,
+ 42,,,,,,,,,MKD5000,
+ 42,,,,,,,,,MKD5011,
+ 42,,,,,,,,,SRB4592,
+ 42,,,,,,,,,SRB5778,
+ 42,,,,,,,,,SRB6040,
+ 42,,,,,,,,,SRB7695,
+ 42,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 42,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 42,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 42,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 42,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 42,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 42,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 42,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 42,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 42,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 42,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 42,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 42,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 42,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 42,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 42,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 43 ,44~, 36744, 40684, 34515, 38453, 36688, 40625,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,OM793603.1 Lumpy skin disease virus isolate LSDV_R, 2.78687969308051E-11, 4.31184059594344E-10, 3.16052203543802E-10, 1.03465021668373E-06, 1.04944892557265E-04, 9.39838797826585E-06,NS,NS, 8.45690067496907E-06,
+ 43,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 43,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 43,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 43,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 43,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 43,,,,,,,,,ALB4192,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 43,,,,,,,,,ALB4770,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 43,,,,,,,,,KY829023,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 43,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 43,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 43,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 43,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 43,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 43,,,,,,,,,MKD5000,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 43,,,,,,,,,MKD5011,SRB6402
+ 43,,,,,,,,,SRB4592,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 43,,,,,,,,,SRB5778,OM803092.1 Lumpy skin disease virus strain China/G
+ 43,,,,,,,,,SRB6040,OM803091.1 Lumpy skin disease virus strain China/G
+ 43,,,,,,,,,SRB7695,
+ 43,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 43,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 43,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 43,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 43,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 43,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 43,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 43,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 43,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 43,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 43,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 43,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 43,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 43,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 43,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 43,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 44 ,45~, 99666*, 101179, 97297*, 98810, 99522*, 101035,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 2.67615857761006E-11, 1.02601770178914E-10, 4.11589597232698E-10, 1.96578301740322E-04, 1.54698577412547E-04, 4.32154838194998E-03,NS,NS, 5.37613073336995E-06,
+ 44,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MT134042.1 Lumpy skin disease virus strain LSDV/Ru
+ 44,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 44,,,,,,,,,ALB1000,SRB6402
+ 44,,,,,,,,,ALB1573,
+ 44,,,,,,,,,ALB1707,
+ 44,,,,,,,,,ALB4192,
+ 44,,,,,,,,,ALB4770,
+ 44,,,,,,,,,KY829023,
+ 44,,,,,,,,,GRC314,
+ 44,,,,,,,,,GRC386-16,
+ 44,,,,,,,,,GRC478,
+ 44,,,,,,,,,GRC498A,
+ 44,,,,,,,,,GRC715,
+ 44,,,,,,,,,MKD5000,
+ 44,,,,,,,,,MKD5011,
+ 44,,,,,,,,,SRB4592,
+ 44,,,,,,,,,SRB5778,
+ 44,,,,,,,,,SRB6040,
+ 44,,,,,,,,,SRB7695,
+ 44,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 44,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 44,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 44,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 44,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 44,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 44,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 44,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 44,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 44,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 44,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 44,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 44,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 44,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 44,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 44,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 45 ,46, 141676, 144037, 141351, 143711, 141408, 143768,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 3.34418515374856E-11, 3.17075402500762E-09, 2.05314802366277E-10, 1.14438350207098E-07, 1.01642207297852E-07, 1.08188185081537E-07,NS,NS, 1.51617867993892E-06,
+ 45,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 45,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 45,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 45,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 45,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 45,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 45,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 45,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 45,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 45,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 45,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 45,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,KX764645.1 Lumpy skin disease virus strain Neethli
+ 45,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 45,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,SRB6402
+ 45,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 45,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 45,,,,,,,,,SRB5778,
+ 45,,,,,,,,,SRB6040,
+ 45,,,,,,,,,SRB7695,
+ 45,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 45,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 45,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 45,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 45,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 45,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 45,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 45,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 45,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 45,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 45,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 45,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 45,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 45,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 45,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 45,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 46 ,47~, 19256, 23318, 19204, 23260, 19209, 23265,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 3.09670934542269E-10, 1.09544212936741E-09, 1.93732403648019E-11, 1.44278664281087E-06, 5.54452131801046E-06, 3.42768927679947E-05,NS,NS, 5.87220678194278E-07,
+ 46,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 46,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 46,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 46,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 46,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 46,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 46,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 46,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 46,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 46,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 46,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 46,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 46,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 46,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 46,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 46,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 46,,,,,,,,,SRB5778,
+ 46,,,,,,,,,SRB6040,
+ 46,,,,,,,,,SRB7695,
+ 46,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 46,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 46,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 46,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 46,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 46,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 46,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 46,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 46,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 46,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 46,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 46,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 46,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 46,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 46,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 46,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 47 ,48~, 108339, 111444, 108179, 111283, 108186, 111290,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 1.94935790362725E-10, 1.50445856773136E-07, 1.2671644148929E-07, 1.16222562095638E-02, 3.64336417369795E-02, 3.31757126601432E-05,NS,NS, 8.15376143270541E-07,
+ 47,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MT992618.1 Lumpy skin disease virus isolate KZ-Kos
+ 47,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 47,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 47,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 47,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 47,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 47,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 47,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 47,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 47,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 47,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 47,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 47,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 47,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 47,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,SRB6402
+ 47,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 47,,,,,,,,,SRB5778,
+ 47,,,,,,,,,SRB6040,
+ 47,,,,,,,,,SRB7695,
+ 47,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 47,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 47,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 47,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 47,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 47,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 47,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 47,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 47,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 47,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 47,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 47,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 47,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 47,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 47,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 47,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 48 ,49~, 85651, 89251, 85556, 89107, 85565, 89116,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 7.04554066465654E-11, 3.06720011750356E-07, 7.33793360318423E-05, 6.47857483270664E-05, 3.01493542100089E-02,NS,NS,NS, 6.27413212939132E-07,
+ 48,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 48,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 48,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 48,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 48,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 48,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 48,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 48,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 48,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 48,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 48,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 48,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 48,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,SRB6402
+ 48,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 48,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 48,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 48,,,,,,,,,SRB5778,
+ 48,,,,,,,,,SRB6040,
+ 48,,,,,,,,,SRB7695,
+ 48,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 48,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 48,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 48,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 48,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 48,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 48,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 48,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 48,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 48,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 48,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 48,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 48,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 48,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 48,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 48,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 49 ,50~, 91386, 92856, 91239, 92709, 91245, 92715,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 8.39164177648217E-11, 2.10909836015176E-09, 7.66464879928405E-08, 9.41379021106692E-06, 9.40371205368533E-06, 1.34066657696197E-04,NS,NS,NS,
+ 49,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MT134042.1 Lumpy skin disease virus strain LSDV/Ru
+ 49,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 49,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 49,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 49,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 49,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 49,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 49,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 49,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 49,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 49,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 49,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,KX764645.1 Lumpy skin disease virus strain Neethli
+ 49,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 49,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 49,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 49,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 49,,,,,,,,,SRB5778,
+ 49,,,,,,,,,SRB6040,
+ 49,,,,,,,,,SRB7695,
+ 49,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 49,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 49,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 49,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 49,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 49,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 49,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 49,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 49,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 49,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 49,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 49,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 49,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 49,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 49,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 49,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 50 ,51~, 7053, 9203*, 7041, 9185*, 7041, 9173*,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OK318001.1 Lumpy skin disease virus isolate V281, ,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 1.00067876545689E-10, 9.0453166020233E-08, 5.4679420958477E-03, 1.25835509745635E-04, 6.63422633522259E-05, 5.76722641899062E-21,NS,NS, 6.13487812062274E-06,
+ 50,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 50,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 50,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 50,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 50,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 50,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 50,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 50,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 50,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 50,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 50,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 50,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 50,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 50,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 50,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,SRB6402
+ 50,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 50,,,,,,,,,SRB5778,
+ 50,,,,,,,,,SRB6040,
+ 50,,,,,,,,,SRB7695,
+ 50,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 50,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 50,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 50,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 50,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 50,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 50,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 50,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 50,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 50,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 50,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 50,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 50,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 50,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 50,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 50,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 51 ,52~, 47439, 53528, 47374, 53462, 47378, 53466,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 1.92073071532946E-10, 8.09503198033685E-06, 4.38017773133073E-02, 8.92307902444137E-05, 2.17436668681833E-04,NS,NS,NS, 6.08654993072832E-09,
+ 51,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 51,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 51,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 51,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 51,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 51,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 51,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 51,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 51,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 51,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 51,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 51,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 51,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,
+ 51,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 51,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 51,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 51,,,,,,,,,SRB5778,
+ 51,,,,,,,,,SRB6040,
+ 51,,,,,,,,,SRB7695,
+ 51,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 51,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 51,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 51,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 51,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 51,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 51,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 51,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 51,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 51,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 51,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 51,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 51,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 51,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 51,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 51,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 52 ,53~, 135137*, 135778*, 132715*, 133353*, 134957*, 135596*,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OK318001.1 Lumpy skin disease virus isolate V281, ,SRB6402, 1.52252773607671E-03, 3.61869646509257E-09,NS, 4.23998681523414E-06, 4.22371990569028E-06,NS,NS,NS, 1.12218965853117E-06,
+ 52,,,,,,,,OL542833.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 52,,,,,,,,,ALB790,MT134042.1 Lumpy skin disease virus strain LSDV/Ru
+ 52,,,,,,,,,ALB1000,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 52,,,,,,,,,ALB1573,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 52,,,,,,,,,ALB1707,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 52,,,,,,,,,ALB4192,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 52,,,,,,,,,ALB4770,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 52,,,,,,,,,KY829023,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 52,,,,,,,,,GRC314,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 52,,,,,,,,,GRC386-16,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 52,,,,,,,,,GRC478,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 52,,,,,,,,,GRC498A,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 52,,,,,,,,,GRC715,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 52,,,,,,,,,MKD5000,KX764645.1 Lumpy skin disease virus strain Neethli
+ 52,,,,,,,,,MKD5011,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 52,,,,,,,,,SRB4592,
+ 52,,,,,,,,,SRB5778,
+ 52,,,,,,,,,SRB6040,
+ 52,,,,,,,,,SRB7695,
+ 52,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 52,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 52,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 52,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 52,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 52,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 52,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 52,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 52,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 52,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 52,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 52,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 52,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 52,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 52,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 52,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 53 ,54, 139016*, 139582*, 138778*, 139268*, 138829*, 139315*,^MH646674.1 Lumpy skin disease virus strain LSDV/Ru,Unknown (OL542833.1 Lumpy skin disease virus isolate LSDV/R),OM530217.1 Lumpy skin disease virus isolate LSDV/R,NS, 7.28077162925542E-09,NS, 2.49898720929196E-02, .024989872092786,NS,NS,NS, 1.27497489586181E-03,
+ 53,,,,,,,,,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14),
+ 53,,,,,,,,,Unknown(SRB6402),
+
+ 54 ,55, 11952*, 20701*, 11926*, 20655*, 11916*, 20651*,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,Unknown (MT992618.1 Lumpy skin disease virus isolate KZ-Kos),SRB6402, 4.49068404893558E-08, 1.27618056022577E-06,NS, 2.06892666533153E-05, 1.63931346470747E-05, 4.52910121532878E-05,NS,NS, 1.65930674987421E-02,
+ 54,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 54,,,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 54,,,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 54,,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 54,,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 54,,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 54,,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 54,,,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 54,,,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 54,,,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 54,,,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli
+ 54,,,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl
+
+ 55 ,56~, 74275, 75488*, 74194, 75407*, 74192, 75405*,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402, 4.99302221687585E-08, 3.32741840624435E-06, 2.00987354527757E-04, .030105626025643,NS,NS,NS,NS, 2.63410714899437E-04,
+ 55,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 55,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 55,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 55,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 55,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 55,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 55,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 55,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 55,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 55,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 55,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 55,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 55,,,,,,,,,GRC715,
+ 55,,,,,,,,,MKD5000,
+ 55,,,,,,,,,MKD5011,
+ 55,,,,,,,,,SRB4592,
+ 55,,,,,,,,,SRB5778,
+ 55,,,,,,,,,SRB6040,
+ 55,,,,,,,,,SRB7695,
+ 55,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 55,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 55,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 55,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 55,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 55,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 55,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 55,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 55,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 55,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 55,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 55,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 55,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 55,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 55,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 55,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 56 ,57, 33906, 35036, 33845, 34975, 33850, 34980,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 1.63775450261189E-07, 1.72515626020741E-06, 1.28332092647123E-04,NS, 7.00087112406145E-03, 7.31960169937339E-03,NS,NS, 2.29057340047967E-03,
+ 56,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,MT992618.1 Lumpy skin disease virus isolate KZ-Kos
+ 56,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,OK318001.1 Lumpy skin disease virus isolate V281, ,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 56,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,OP688129.1 Lumpy skin disease virus isolate V395.1,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 56,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,OP297402.1 Lumpy skin disease virus isolate LSDV-W,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 56,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ON400507.1 Lumpy skin disease virus isolate 208/PV,SRB6402
+ 56,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 56,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 56,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 56,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 56,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 56,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,,
+ 56,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,,
+ 56,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,,
+ 56,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,,
+ 56,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,,
+ 56,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,,
+
+ 57 ,58~, 95292*, 99148*, 95106*, 98961*, 95151*, 99005*,^MT134042.1 Lumpy skin disease virus strain LSDV/Ru,OM793603.1 Lumpy skin disease virus isolate LSDV_R,Unknown (SRB6402), 2.16748535699673E-05, 1.52287876825007E-04,NS, 4.78546218355379E-05, 4.99309396802268E-07,NS,NS,NS, 3.4156554828968E-07,
+ 57,,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,Unknown(MW656252.1 Lumpy skin disease virus isolate LSDV/H)
+ 57,,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,Unknown(MN636843.1 Lumpy skin disease virus isolate LSD-14)
+ 57,,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,Unknown(MN636842.1 Lumpy skin disease virus isolate LSD-22)
+ 57,,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,Unknown(MN636841.1 Lumpy skin disease virus isolate LSD-22)
+ 57,,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,Unknown(MN636840.1 Lumpy skin disease virus isolate LSD-24)
+ 57,,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,Unknown(MN636839.1 Lumpy skin disease virus isolate LSD-10)
+ 57,,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,Unknown(MN636838.1 Lumpy skin disease virus isolate LSD-58)
+ 57,,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho,Unknown(MK441838.1 Lumpy skin disease virus strain Herbiva)
+ 57,,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,Unknown(MG972412.1 Lumpy skin disease virus isolate Cro201)
+ 57,,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,Unknown(KX764643.1 Lumpy skin disease virus strain SIS-Lum)
+ 57,,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,Unknown(KX764645.1 Lumpy skin disease virus strain Neethli)
+ 57,,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,Unknown(AF409138.1 Lumpy skin disease virus isolate Neethl)
+ 57,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,
+ 57,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,
+ 57,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,
+ 57,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,
+
+ 58 ,59~, 138367*, 139945*, 138113*, 139687*, 138180*, 139678*,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OM530217.1 Lumpy skin disease virus isolate LSDV/R,Unknown (MT134042.1 Lumpy skin disease virus strain LSDV/Ru), 3.54249150131175E-17, 1.60548658011368E-17,NS, 2.2501513537687E-15, 2.67529983933351E-09, 2.4243864424372E-25,NS,NS, 1.64581150577936E-04,
+ 58,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,
+ 58,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14,MW656252.1 Lumpy skin disease virus isolate LSDV/H,
+ 58,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22[P],MN636843.1 Lumpy skin disease virus isolate LSD-14,
+ 58,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22[P],MN636842.1 Lumpy skin disease virus isolate LSD-22,
+ 58,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24[P],MN636841.1 Lumpy skin disease virus isolate LSD-22,
+ 58,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10,MN636840.1 Lumpy skin disease virus isolate LSD-24,
+ 58,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58[P],MN636839.1 Lumpy skin disease virus isolate LSD-10,
+ 58,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva,MN636838.1 Lumpy skin disease virus isolate LSD-58,
+ 58,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201,MK441838.1 Lumpy skin disease virus strain Herbiva,
+ 58,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum,MG972412.1 Lumpy skin disease virus isolate Cro201,
+ 58,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli,KX764643.1 Lumpy skin disease virus strain SIS-Lum,
+ 58,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl,KX764645.1 Lumpy skin disease virus strain Neethli,
+ 58,,,,,,,,SRB6402,AF409138.1 Lumpy skin disease virus isolate Neethl,
+ 58,,,,,,,,,SRB6402,
+
+ 59 ,60~, 136943, 138269*, 136691, 138015*, 136756, 138082*,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,SRB6402,Unknown (MT134042.1 Lumpy skin disease virus strain LSDV/Ru), 1.47064054419398E-10, 1.44737084691684E-12,NS, 6.72023917799459E-12, 4.86673422585202E-02,NS,NS,NS, 2.03705862337821E-02,
+ 59,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H[T],MW656252.1 Lumpy skin disease virus isolate LSDV/H,
+ 59,,,,,,,,MN636843.1 Lumpy skin disease virus isolate LSD-14[T],MN636843.1 Lumpy skin disease virus isolate LSD-14,
+ 59,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22[T],MN636842.1 Lumpy skin disease virus isolate LSD-22,
+ 59,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22[T],MN636841.1 Lumpy skin disease virus isolate LSD-22,
+ 59,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24[T],MN636840.1 Lumpy skin disease virus isolate LSD-24,
+ 59,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10[T],MN636839.1 Lumpy skin disease virus isolate LSD-10,
+ 59,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58[T],MN636838.1 Lumpy skin disease virus isolate LSD-58,
+ 59,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva[T],MK441838.1 Lumpy skin disease virus strain Herbiva,
+ 59,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201[T],MG972412.1 Lumpy skin disease virus isolate Cro201,
+ 59,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum[T],KX764643.1 Lumpy skin disease virus strain SIS-Lum,
+ 59,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli[T],KX764645.1 Lumpy skin disease virus strain Neethli,
+ 59,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl[T],AF409138.1 Lumpy skin disease virus isolate Neethl,
+ 59,,,,,,,,SRB6402[T],,
+
+ 60 ,61~, 26670, 27430*, 26612, 27371*, 26617, 27376*,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 8.29272966519671E-07, 6.62519409947858E-06, 8.09804879744198E-06,NS,NS,NS,NS,NS, 1.12619661783264E-03,
+ 60,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 60,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,
+ 60,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,
+ 60,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,
+ 60,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,
+ 60,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,
+ 60,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,
+ 60,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,
+ 60,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,
+ 60,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,
+ 60,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,
+ 60,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,
+ 60,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,
+ 60,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 60,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 60,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 60,,,,,,,,,SRB5778,
+ 60,,,,,,,,,SRB6040,
+ 60,,,,,,,,,SRB7695,
+ 60,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 60,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 60,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 60,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 60,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 60,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 60,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 60,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 60,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 60,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 60,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 60,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 60,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 60,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 60,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 60,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 61 ,62~, 102269, 104779, 102116, 104620, 102125, 104629,^MW732649.1 Lumpy skin disease virus strain LSDV/Ho,OP688128.1 Lumpy skin disease virus isolate V392.1,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 8.43223345516957E-07, 1.85131906164206E-05, 2.84809034489978E-05,NS,NS,NS,NS,NS, 4.27775796851826E-06,
+ 61,,,,,,,,ON152411.1 Lumpy skin disease virus isolate LSDV72,MT643825.1 Lumpy skin disease virus strain 210LSD-,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 61,,,,,,,,OP508345.1 Lumpy skin disease virus isolate China/,ALB790,
+ 61,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T,ALB1000,
+ 61,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM,ALB1573,
+ 61,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ,ALB1707,
+ 61,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R,ALB4192,
+ 61,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R,ALB4770,
+ 61,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K,KY829023,
+ 61,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B,GRC314,
+ 61,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D,GRC386-16,
+ 61,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L,GRC478,
+ 61,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q,GRC498A,
+ 61,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G,GRC715,
+ 61,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch,MKD5000,
+ 61,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G,MKD5011,
+ 61,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G,SRB4592,
+ 61,,,,,,,,,SRB5778,
+ 61,,,,,,,,,SRB6040,
+ 61,,,,,,,,,SRB7695,
+ 61,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 61,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 61,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 61,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 61,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 61,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 61,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 61,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 61,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 61,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 61,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 61,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 61,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 61,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 61,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 61,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 62 ,64~, 61870, 64394, 61806, 64330, 61805, 64329,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,SRB6402, 1.15748946928021E-06, 4.187868595088E-04, 4.09341771372421E-04, 3.97310359097319E-04,NS,NS,NS,NS,NS,
+ 62,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 62,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 62,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 62,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 62,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 62,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 62,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 62,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 62,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 62,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 62,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 62,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 62,,,,,,,,,GRC715,
+ 62,,,,,,,,,MKD5000,
+ 62,,,,,,,,,MKD5011,
+ 62,,,,,,,,,SRB4592,
+ 62,,,,,,,,,SRB5778,
+ 62,,,,,,,,,SRB6040,
+ 62,,,,,,,,,SRB7695,
+ 62,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 62,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 62,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 62,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 62,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 62,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 62,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 62,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 62,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 63 ,65~, 90950, 91954, 90807, 91811, 90809, 91813,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,SRB6402,NS, 1.88611566475814E-06, 8.88420324565661E-05,NS,NS,NS,NS,NS, 1.19614091109432E-03,
+ 63,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,MT992618.1 Lumpy skin disease virus isolate KZ-Kos
+ 63,,,,,,,,,ALB790,MT134042.1 Lumpy skin disease virus strain LSDV/Ru
+ 63,,,,,,,,,ALB1000,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 63,,,,,,,,,ALB1573,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 63,,,,,,,,,ALB1707,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 63,,,,,,,,,ALB4192,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 63,,,,,,,,,ALB4770,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 63,,,,,,,,,KY829023,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 63,,,,,,,,,GRC314,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 63,,,,,,,,,GRC386-16,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 63,,,,,,,,,GRC478,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 63,,,,,,,,,GRC498A,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 63,,,,,,,,,GRC715,KX764645.1 Lumpy skin disease virus strain Neethli
+ 63,,,,,,,,,MKD5000,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 63,,,,,,,,,MKD5011,
+ 63,,,,,,,,,SRB4592,
+ 63,,,,,,,,,SRB5778,
+ 63,,,,,,,,,SRB6040,
+ 63,,,,,,,,,SRB7695,
+ 63,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 63,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 63,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 63,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 63,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 63,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 63,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 63,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 63,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 63,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 63,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 63,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 63,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 63,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 63,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 63,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 64 ,66~, 73635, 74274*, 73548, 74187*, 73552, 74191*,^MH646674.1 Lumpy skin disease virus strain LSDV/Ru,OK318001.1 Lumpy skin disease virus isolate V281, ,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 5.64684703028955E-07, 4.35823401218755E-06, 5.64460007417762E-06,NS,NS,NS,NS,NS,NS,
+ 64,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 64,,,,,,,,,ALB790,
+ 64,,,,,,,,,ALB1000,
+ 64,,,,,,,,,ALB1573,
+ 64,,,,,,,,,ALB1707,
+ 64,,,,,,,,,ALB4192,
+ 64,,,,,,,,,ALB4770,
+ 64,,,,,,,,,KY829023,
+ 64,,,,,,,,,GRC314,
+ 64,,,,,,,,,GRC386-16,
+ 64,,,,,,,,,GRC478,
+ 64,,,,,,,,,GRC498A,
+ 64,,,,,,,,,GRC715,
+ 64,,,,,,,,,MKD5000,
+ 64,,,,,,,,,MKD5011,
+ 64,,,,,,,,,SRB4592,
+ 64,,,,,,,,,SRB5778,
+ 64,,,,,,,,,SRB6040,
+ 64,,,,,,,,,SRB7695,
+ 64,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 64,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 64,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 64,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 64,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 64,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 64,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 64,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 64,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 64,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 64,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 64,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 64,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 64,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 64,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 64,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 65 ,67~, 131977*, 133411, 131737*, 133171, 131800*, 133234,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,MW732649.1 Lumpy skin disease virus strain LSDV/Ho, 7.22728253979698E-07, 1.62937969235221E-02, 2.76769017292981E-03, 6.9162359726275E-03, 5.11740717373716E-03,NS,NS,NS, 4.13297929642801E-02,
+ 65,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 65,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 65,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 65,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 65,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 65,,,,,,,,,ALB4192,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 65,,,,,,,,,ALB4770,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 65,,,,,,,,,KY829023,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 65,,,,,,,,,GRC314,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 65,,,,,,,,,GRC386-16,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 65,,,,,,,,,GRC478,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 65,,,,,,,,,GRC498A,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 65,,,,,,,,,GRC715,MW355944.1 Lumpy skin disease virus strain China/G
+ 65,,,,,,,,,MKD5000,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 65,,,,,,,,,MKD5011,OM803092.1 Lumpy skin disease virus strain China/G
+ 65,,,,,,,,,SRB4592,OM803091.1 Lumpy skin disease virus strain China/G
+ 65,,,,,,,,,SRB5778,
+ 65,,,,,,,,,SRB6040,
+ 65,,,,,,,,,SRB7695,
+ 65,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 65,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 65,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 65,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 65,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 65,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 65,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 65,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 65,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 65,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 65,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 65,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 65,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 65,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 65,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 65,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 66 ,68~, 121642*, 122284*, 121420*, 122056*, 121477*, 122112*,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,MT134042.1 Lumpy skin disease virus strain LSDV/Ru, 6.253611969537E-06,NS, 2.39585932004576E-04, 4.91609657228161E-02, .045129941795952,NS,NS,NS, 4.10283931563771E-03,
+ 66,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 66,,,,,,,,,ALB790,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 66,,,,,,,,,ALB1000,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 66,,,,,,,,,ALB1573,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 66,,,,,,,,,ALB1707,KX764645.1 Lumpy skin disease virus strain Neethli
+ 66,,,,,,,,,ALB4192,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 66,,,,,,,,,ALB4770,SRB6402
+ 66,,,,,,,,,KY829023,
+ 66,,,,,,,,,GRC314,
+ 66,,,,,,,,,GRC386-16,
+ 66,,,,,,,,,GRC478,
+ 66,,,,,,,,,GRC498A,
+ 66,,,,,,,,,GRC715,
+ 66,,,,,,,,,MKD5000,
+ 66,,,,,,,,,MKD5011,
+ 66,,,,,,,,,SRB4592,
+ 66,,,,,,,,,SRB5778,
+ 66,,,,,,,,,SRB6040,
+ 66,,,,,,,,,SRB7695,
+ 66,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 66,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 66,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 66,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 66,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 66,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 66,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 66,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 66,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 66,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 66,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 66,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 66,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 66,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 66,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 66,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 67 ,69~, 140600, 141989, 140276, 141665, 140332, 141721,^MH646674.1 Lumpy skin disease virus strain LSDV/Ru,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,MN636843.1 Lumpy skin disease virus isolate LSD-14,NS, 9.5057060407436E-06, 9.97074837121601E-06,NS,NS,NS,NS,NS, 4.69941442242816E-03,
+ 67,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 67,,,,,,,,,ALB790,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 67,,,,,,,,,ALB1000,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 67,,,,,,,,,ALB1573,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 67,,,,,,,,,ALB1707,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 67,,,,,,,,,ALB4192,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 67,,,,,,,,,ALB4770,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 67,,,,,,,,,KY829023,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 67,,,,,,,,,GRC314,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 67,,,,,,,,,GRC386-16,KX764645.1 Lumpy skin disease virus strain Neethli
+ 67,,,,,,,,,GRC478,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 67,,,,,,,,,GRC498A,SRB6402
+ 67,,,,,,,,,GRC715,
+ 67,,,,,,,,,MKD5000,
+ 67,,,,,,,,,MKD5011,
+ 67,,,,,,,,,SRB4592,
+ 67,,,,,,,,,SRB5778,
+ 67,,,,,,,,,SRB6040,
+ 67,,,,,,,,,SRB7695,
+ 67,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 67,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 67,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 67,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 67,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 67,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 67,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 67,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 67,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 67,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 67,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 67,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 67,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 67,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 67,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 67,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 68 ,71~, 46996, 50265, 46944, 50213, 46935, 50204,^OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,MN636843.1 Lumpy skin disease virus isolate LSD-14, 7.09154468043662E-06, 1.53457832152838E-03, 1.22783898486158E-03, 2.38073087787794E-02, 1.16680901147091E-02,NS,NS,NS, 5.76236484697623E-04,
+ 68,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 68,,,,,,,,,ALB790,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 68,,,,,,,,,ALB1000,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 68,,,,,,,,,ALB1573,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 68,,,,,,,,,ALB1707,SRB6402
+ 68,,,,,,,,,ALB4192,
+ 68,,,,,,,,,ALB4770,
+ 68,,,,,,,,,KY829023,
+ 68,,,,,,,,,GRC314,
+ 68,,,,,,,,,GRC386-16,
+ 68,,,,,,,,,GRC478,
+ 68,,,,,,,,,GRC498A,
+ 68,,,,,,,,,GRC715,
+ 68,,,,,,,,,MKD5000,
+ 68,,,,,,,,,MKD5011,
+ 68,,,,,,,,,SRB4592,
+ 68,,,,,,,,,SRB5778,
+ 68,,,,,,,,,SRB6040,
+ 68,,,,,,,,,SRB7695,
+ 68,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 68,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 68,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 68,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 68,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 68,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 68,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 68,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 68,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 68,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 68,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 68,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 68,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 68,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 68,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 68,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 69 ,72~, 92765, 93302, 90402, 90939, 92624, 93161,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,OL542833.1 Lumpy skin disease virus isolate LSDV/R, 2.22524170289766E-05, 1.97369851801955E-04, 1.77648515622013E-03,NS,NS,NS,NS,NS,NS,
+ 69,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru
+ 69,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 69,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 69,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 69,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 69,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 69,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+
+ 70 ,73~, 122512*, 122977*, 120095*, 120560*, 122340*, 122805*,MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OK318001.1 Lumpy skin disease virus isolate V281, ,OM530217.1 Lumpy skin disease virus isolate LSDV/R, 1.30642902772197E-05, 1.11543753065391E-04, 6.47486231896269E-04,NS,NS,NS,NS,NS, 1.15087830418289E-02,
+ 70,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 70,,,,,,,,,ALB790,OP508345.1 Lumpy skin disease virus isolate China/
+ 70,,,,,,,,,ALB1000,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 70,,,,,,,,,ALB1573,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 70,,,,,,,,,ALB1707,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 70,,,,,,,,,ALB4192,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 70,,,,,,,,,ALB4770,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 70,,,,,,,,,KY829023,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 70,,,,,,,,,GRC314,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 70,,,,,,,,,GRC386-16,MH646674.1 Lumpy skin disease virus strain LSDV/Ru
+ 70,,,,,,,,,GRC478,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 70,,,,,,,,,GRC498A,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 70,,,,,,,,,GRC715,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 70,,,,,,,,,MKD5000,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 70,,,,,,,,,MKD5011,MW355944.1 Lumpy skin disease virus strain China/G
+ 70,,,,,,,,,SRB4592,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 70,,,,,,,,,SRB5778,OM803092.1 Lumpy skin disease virus strain China/G
+ 70,,,,,,,,,SRB6040,OM803091.1 Lumpy skin disease virus strain China/G
+ 70,,,,,,,,,SRB7695,
+ 70,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 70,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 70,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 70,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 70,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 70,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 70,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 70,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 70,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 70,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 70,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 70,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 70,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 70,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 70,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 70,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 71 ,74, 142205*, 143800*, 139683*, 141277*, 141937*, 143531*,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,MH646674.1 Lumpy skin disease virus strain LSDV/Ru, 6.01784031496913E-06,NS, 4.63501306711099E-02,NS,NS, 2.39446739508117E-45,NS,NS, 7.09620344192818E-03,
+ 71,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,OM530217.1 Lumpy skin disease virus isolate LSDV/R
+ 71,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 71,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,SRB6402
+ 71,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 71,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 71,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 71,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 71,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 71,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 71,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 71,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 72 ,75~, 85120, 86477, 82858, 84215, 85034, 86391,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,OP688128.1 Lumpy skin disease virus isolate V392.1,MT134042.1 Lumpy skin disease virus strain LSDV/Ru,NS, 2.16822637202727E-05, 2.95656064665205E-05,NS,NS,NS,NS,NS, 6.09699721597479E-03,
+ 72,,,,,,,,OM530217.1 Lumpy skin disease virus isolate LSDV/R,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 72,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 72,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 72,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 72,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 72,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 72,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 72,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 72,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 72,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 72,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 72,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 72,,,,,,,,,GRC715,SRB6402
+ 72,,,,,,,,,MKD5000,
+ 72,,,,,,,,,MKD5011,
+ 72,,,,,,,,,SRB4592,
+ 72,,,,,,,,,SRB5778,
+ 72,,,,,,,,,SRB6040,
+ 72,,,,,,,,,SRB7695,
+ 72,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 72,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 72,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 72,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 72,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 72,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 72,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 72,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 72,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 72,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 72,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 72,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 72,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 72,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 72,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 72,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 73 ,76, 60948, 63925, 58702, 61679, 60883, 63860,^MT992618.1 Lumpy skin disease virus isolate KZ-Kos,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,MN636843.1 Lumpy skin disease virus isolate LSD-14, 2.46246406439012E-05, 1.75608700144715E-02, 1.54714211955522E-02, 1.91144670167705E-02, 1.89822784471755E-02,NS,NS,NS, 2.48759334525132E-02,
+ 73,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 73,,,,,,,,,ALB790,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 73,,,,,,,,,ALB1000,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 73,,,,,,,,,ALB1573,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 73,,,,,,,,,ALB1707,SRB6402
+ 73,,,,,,,,,ALB4192,
+ 73,,,,,,,,,ALB4770,
+ 73,,,,,,,,,KY829023,
+ 73,,,,,,,,,GRC314,
+ 73,,,,,,,,,GRC386-16,
+ 73,,,,,,,,,GRC478,
+ 73,,,,,,,,,GRC498A,
+ 73,,,,,,,,,GRC715,
+ 73,,,,,,,,,MKD5000,
+ 73,,,,,,,,,MKD5011,
+ 73,,,,,,,,,SRB4592,
+ 73,,,,,,,,,SRB5778,
+ 73,,,,,,,,,SRB6040,
+ 73,,,,,,,,,SRB7695,
+ 73,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 73,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 73,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 73,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 73,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 73,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 73,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 73,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 73,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 74 ,80~, 146622, 146733, 146333, 146444, 146352, 146463,^MN636843.1 Lumpy skin disease virus isolate LSD-14,OK318001.1 Lumpy skin disease virus isolate V281, ,MW732649.1 Lumpy skin disease virus strain LSDV/Ho, 1.94879541971747E-04, 9.93355159066299E-04,NS,NS,NS,NS,NS,NS, 8.22333244502738E-03,
+ 74,,,,,,,,MW656252.1 Lumpy skin disease virus isolate LSDV/H,MT643825.1 Lumpy skin disease virus strain 210LSD-,
+ 74,,,,,,,,MN636842.1 Lumpy skin disease virus isolate LSD-22,ALB790,
+ 74,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22,ALB1000,
+ 74,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24,ALB1573,
+ 74,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10,ALB1707,
+ 74,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58,ALB4192,
+ 74,,,,,,,,MK441838.1 Lumpy skin disease virus strain Herbiva,ALB4770,
+ 74,,,,,,,,MG972412.1 Lumpy skin disease virus isolate Cro201,KY829023,
+ 74,,,,,,,,KX764643.1 Lumpy skin disease virus strain SIS-Lum,GRC314,
+ 74,,,,,,,,KX764645.1 Lumpy skin disease virus strain Neethli,GRC386-16,
+ 74,,,,,,,,AF409138.1 Lumpy skin disease virus isolate Neethl,GRC478,
+ 74,,,,,,,,SRB6402,GRC498A,
+ 74,,,,,,,,,GRC715,
+ 74,,,,,,,,,MKD5000,
+ 74,,,,,,,,,MKD5011,
+ 74,,,,,,,,,SRB4592,
+ 74,,,,,,,,,SRB5778,
+ 74,,,,,,,,,SRB6040,
+ 74,,,,,,,,,SRB7695,
+ 74,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 74,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 74,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 74,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 74,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 74,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 74,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 74,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 74,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 75 ,82~, 19771, 23318*, 19731, 23273*, 19724, 23265*,OL542833.1 Lumpy skin disease virus isolate LSDV/R,OP688128.1 Lumpy skin disease virus isolate V392.1,SRB6402,NS, 4.14003622301408E-02, 4.72860782851779E-03, 4.6354543457894E-04, 3.80111062730132E-04,NS,NS,NS,NS,
+ 75,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 75,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 75,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 75,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 75,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 75,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 75,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 75,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 75,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 75,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 75,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 75,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 75,,,,,,,,,GRC715,
+ 75,,,,,,,,,MKD5000,
+ 75,,,,,,,,,MKD5011,
+ 75,,,,,,,,,SRB4592,
+ 75,,,,,,,,,SRB5778,
+ 75,,,,,,,,,SRB6040,
+ 75,,,,,,,,,SRB7695,
+ 75,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 75,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 75,,,,,,,,,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,
+ 75,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 75,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 75,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 75,,,,,,,,,OP688129.1 Lumpy skin disease virus isolate V395.1,
+ 75,,,,,,,,,OP297402.1 Lumpy skin disease virus isolate LSDV-W,
+ 75,,,,,,,,,ON400507.1 Lumpy skin disease virus isolate 208/PV,
+ 75,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 75,,,,,,,,,OK422492.1 Lumpy skin disease virus isolate LSDV/C,
+ 75,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 75,,,,,,,,,MN072619.1 Lumpy skin disease virus isolate Kenya,,
+ 75,,,,,,,,,KX683219.1 Lumpy skin disease virus strain KSGP 02,
+ 75,,,,,,,,,AF325528.1 Lumpy skin disease virus NI-2490 isolat,
+ 75,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 76 ,83~, 62219, 64394*, 62163, 64338*, 62154, 64329*,OL542833.1 Lumpy skin disease virus isolate LSDV/R,MH893760.2 Lumpy skin disease virus strain LSDV/Ru,SRB6402, 3.07241460260771E-04, 1.09514864380914E-02, 9.55067110963843E-03,NS,NS,NS,NS,NS, 2.04922695552484E-02,
+ 76,,,,,,,,,MT643825.1 Lumpy skin disease virus strain 210LSD-,MW656252.1 Lumpy skin disease virus isolate LSDV/H
+ 76,,,,,,,,,ALB790,MN636843.1 Lumpy skin disease virus isolate LSD-14
+ 76,,,,,,,,,ALB1000,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 76,,,,,,,,,ALB1573,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 76,,,,,,,,,ALB1707,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 76,,,,,,,,,ALB4192,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 76,,,,,,,,,ALB4770,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 76,,,,,,,,,KY829023,MK441838.1 Lumpy skin disease virus strain Herbiva
+ 76,,,,,,,,,GRC314,MG972412.1 Lumpy skin disease virus isolate Cro201
+ 76,,,,,,,,,GRC386-16,KX764643.1 Lumpy skin disease virus strain SIS-Lum
+ 76,,,,,,,,,GRC478,KX764645.1 Lumpy skin disease virus strain Neethli
+ 76,,,,,,,,,GRC498A,AF409138.1 Lumpy skin disease virus isolate Neethl
+ 76,,,,,,,,,GRC715,
+ 76,,,,,,,,,MKD5000,
+ 76,,,,,,,,,MKD5011,
+ 76,,,,,,,,,SRB4592,
+ 76,,,,,,,,,SRB5778,
+ 76,,,,,,,,,SRB6040,
+ 76,,,,,,,,,SRB7695,
+ 76,,,,,,,,,MN642592.1 Lumpy skin disease virus strain Kubash/,
+ 76,,,,,,,,,MN995838.1 Lumpy skin disease virus isolate pendik,
+ 76,,,,,,,,,KX894508.1 Lumpy skin disease virus isolate 155920,
+ 76,,,,,,,,,OK318001.1 Lumpy skin disease virus isolate V281, ,
+ 76,,,,,,,,,MW699032.1 Lumpy skin disease virus strain LSDV/Ru,
+ 76,,,,,,,,,OP688128.1 Lumpy skin disease virus isolate V392.1,
+ 76,,,,,,,,,MT007950.1 UNVERIFIED: Lumpy skin disease virus is,
+ 76,,,,,,,,,MW656253.1 Lumpy skin disease virus isolate LSDV/2,
+ 76,,,,,,,,,AF409137.1 Lumpy skin disease virus NW-LW isolate ,
+
+ 77 ,85~, 99314*, 101310*, 99131*, 101126*, 99171*, 101166*,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,Unknown (OL542833.1 Lumpy skin disease virus isolate LSDV/R),MN636843.1 Lumpy skin disease virus isolate LSD-14, 1.0131634418899E-03, 9.12130886838241E-03,NS, 5.45149800731427E-03, .034533830814909,NS,NS,NS,NS,
+ 77,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,,MN636842.1 Lumpy skin disease virus isolate LSD-22
+ 77,,,,,,,,,,MN636841.1 Lumpy skin disease virus isolate LSD-22
+ 77,,,,,,,,,,MN636840.1 Lumpy skin disease virus isolate LSD-24
+ 77,,,,,,,,,,MN636839.1 Lumpy skin disease virus isolate LSD-10
+ 77,,,,,,,,,,MN636838.1 Lumpy skin disease virus isolate LSD-58
+ 77,,,,,,,,,,SRB6402
+
+ 78 ,86~, 139890, 139945*, 139614, 139669*, 139623, 139678*,^OM530217.1 Lumpy skin disease virus isolate LSDV/R,Unknown (MT134042.1 Lumpy skin disease virus strain LSDV/Ru),OP508345.1 Lumpy skin disease virus isolate China/,NS, 3.61024096938263E-04,NS, 2.35454336731302E-02, 1.92152389742988E-02, 1.02087618028617E-04,NS,NS, 2.44311583150192E-03,
+ 78,,,,,,,,MH646674.1 Lumpy skin disease virus strain LSDV/Ru,,ON152411.1 Lumpy skin disease virus isolate LSDV72
+ 78,,,,,,,,,,OM033705.1 Lumpy skin disease virus isolate LSDV/T
+ 78,,,,,,,,,,ON616408.1 Lumpy skin disease virus strain LSDV/NM
+ 78,,,,,,,,,,OM984485.1 Lumpy skin disease virus strain LSDV XJ
+ 78,,,,,,,,,,OM793603.1 Lumpy skin disease virus isolate LSDV_R
+ 78,,,,,,,,,,OM793602.1 Lumpy skin disease virus isolate LSDV_R
+ 78,,,,,,,,,,OL752713.1 Lumpy skin disease virus isolate LSDV/K
+ 78,,,,,,,,,,MW732649.1 Lumpy skin disease virus strain LSDV/Ho
+ 78,,,,,,,,,,MZ577076.1 Lumpy skin disease virus strain 20L81_B
+ 78,,,,,,,,,,MZ577075.1 Lumpy skin disease virus strain 20L70_D
+ 78,,,,,,,,,,MZ577074.1 Lumpy skin disease virus strain 20L43_L
+ 78,,,,,,,,,,MZ577073.1 Lumpy skin disease virus strain 20L42_Q
+ 78,,,,,,,,,,MW355944.1 Lumpy skin disease virus strain China/G
+ 78,,,,,,,,,,OM105589.1 Lumpy skin disease virus strain LSDV/Ch
+ 78,,,,,,,,,,OM803092.1 Lumpy skin disease virus strain China/G
+ 78,,,,,,,,,,OM803091.1 Lumpy skin disease virus strain China/G
+
+Table Key:
+~            = It is possible that this apparent recombination signal could have been caused by an evolutionary
+               process other than recombination.
+*            = The actual breakpoint position is undetermined (it was most likely overprinted by a subsequent 
+               recombination event).
+^            = The recombinant sequence may have been misidentified (one of the identified parents might be the recombinant)
+Minor Parent = Parent contributing the smaller fraction of sequence.
+Major Parent = Parent contributing the larger fraction of sequence.
+Unknown      = Only one parent and a recombinant need be in the alignment for a recombination event to be detectable.
+               The sequence listed as unknown was used to infer the existance of a missing parental sequence.
+NS           = No significant P-value was recorded for this recombination event using this method.

@@ -15,8 +15,8 @@ library(vegan)
 # 2. Testing for a signal of recombination within the global alignment
 # 3. Generating an haplotype network for the global data set (Network)
 # 4. Inferring a maximum likelihood phylogeny for the global data set
-# 5. Generating an overall sampling map for all the samples
-# 6. Inferring the recombination breakpoints with GARD (www.datamonkey.org/GARD)
+# 5. Inferring recombination breakpoints, and a recombination-free alignment
+# 6. Generating an overall sampling map for all the samples
 # 7. Preparing the input files for the analyses to perform in SPADS
 # 8. Testing for a signal of recombination within the two wild type clades
 # 9. Investigating the isolation-by-distance pattern based on the IID2 metric
@@ -254,7 +254,47 @@ for (i in 1:dim(tre$edge)[1])
 	}
 add.scale.bar(x=0.0, y=-0.1, length=NULL, ask=F, lwd=0.5 , lcol ="gray30", cex=0.7)
 
-# 5. Generating an overall sampling map for all the samples
+# 5. Inferring recombination breakpoints, and a recombination-free alignment
+
+	# 5.1. 1° attempt with the online version of GARD (www.datamonkey.org/GARD)
+
+		# - parameters: site-to-site rate variation = beta-gamma; rate classes = 6
+		# - results: http://www.datamonkey.org/gard/6424343907f53a24047dbbbf
+		# --> NRRs: 1-189, 190-1489, 1490-1660, 1661-1827, 1828-1955, 1956-2088
+	
+	# 5.2. 2° attempt with RDP4 (generation of a recombination-free alignment)
+
+system("IQTREE_1.6.12_on_MacOS/iqtree -s LSVD_all_RDP4_free.fas -m MFP -mem 10Go -mset GTR -nt 4 -b 100")
+
+tre = readAnnotatedNexus("LSVD_all_RDP4_free.tre"); tre$tip.label = paste0("  ",gsub("'","",tre$tip.label))
+tab = read.csv("LSVD_all_alignment1.csv", head=T, sep=";"); tab[which(tab[,"country"]=="China "),"country"] = "China"
+for (i in 1:length(tre$tip.label))
+	{
+		country = tab[which(grepl(gsub("  ","",tre$tip.label[i]),tab[,"seqID"])),"country"]
+		tre$tip.label[i] = paste0(tre$tip.label[i]," (",country,")")
+	}
+dev.new(width=9, height=6); par(mar=c(0.7,0,0,0), oma=c(0,0,0,0), mgp=c(0,0.1,0), lwd=0.2, bty="o"); indices = c()
+plot(tre, show.tip.label=T, show.node.label=F, edge.width=0.75, cex=0.5, col="gray30", edge.color="gray30")
+tre = readAnnotatedNexus("LSVD_all_RDP4_free.tre"); tre$tip.label = paste0("  ",gsub("'","",tre$tip.label))
+for (i in 1:dim(tre$edge)[1])
+	{
+		if (!tre$edge[i,2]%in%tre$edge[,1])
+			{
+				index = which(grepl(gsub("  ","",tre$tip.label[tre$edge[i,2]]),tab[,"seqID"]))
+				colour = different_colours[which(different_countries==tab[index,"country"])]
+				nodelabels(node=tre$edge[i,2], pch=16, cex=0.70, col=colour)
+				nodelabels(node=tre$edge[i,2], pch=1, cex=0.70, col="gray30", lwd=0.2)
+				# tiplabels(tab[index,"seqID"], tip=tre$edge[i,2], col="gray30", cex=0.50, frame="none", adj=-0.2)
+			}	else	{
+				if (tre$annotations[[i]]$label >= 70)
+					{
+						nodelabels(node=tre$edge[i,2], pch=16, cex=0.50, col="gray30")
+					}
+			}
+	}
+add.scale.bar(x=0.0, y=-0.1, length=NULL, ask=F, lwd=0.5 , lcol ="gray30", cex=0.7)
+
+# 6. Generating an overall sampling map for all the samples
 
 tab = read.csv("LSVD_all_alignment1.csv", head=T, sep=";"); tab[which(tab[,"country"]=="China "),"country"] = "China"
 unique_coordinates = unique(tab[,"latitude_longitude"]); e_Palearctic = extent(-25, 180, -40, 75)
@@ -287,12 +327,6 @@ for (i in 1:dim(sampling)[1])
 	}
 rect(-25, -40, 180, 75, lwd=0.2, border="gray30")
 dev.off()
-
-# 6. Inferring the recombination breakpoints with GARD (www.datamonkey.org/GARD)
-
-	# - parameters: site-to-site rate variation = beta-gamma; rate classes = 6
-	# - results: http://www.datamonkey.org/gard/6424343907f53a24047dbbbf
-	# --> NRRs: 1-189, 190-1489, 1490-1660, 1661-1827, 1828-1955, 1956-2088
 
 # 7. Preparing the input files for the analyses to perform in SPADS
 
